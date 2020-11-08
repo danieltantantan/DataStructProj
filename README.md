@@ -11,7 +11,8 @@ compile.bat
 ```
 3. Run the run.bat with the specific search query that you want to search for. 
 This will run ProcessCSV, which will then create the CSV file to be built into the trie.
-Currently, these words are in the dictionary [artificial intelligence, covid-19,cybersecurity courses,data science,donald trump,fishing sleeping,internship,nus computer science,smu computer science]
+Currently, these words are in the dictionary:
+[artificial intelligence, covid-19,cybersecurity courses,data science,donald trump,fishing sleeping,internship,nus computer science,smu computer science]
 
 Template:
 ```shell
