@@ -1,7 +1,4 @@
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 class Trie{
 
@@ -11,11 +8,11 @@ class Trie{
         rootNode = new TrieNode();
     }
 
-    public void insertWord(String searchTerm, String URL, String grouping, String rank){
+    public void insertWord(SearchResult searchResult){
         TrieNode current = rootNode;
-        String buildTogether = searchTerm + URL;
+        String buildTogether = searchResult.getSearchQuery() + searchResult.getURL();
         boolean groupSet = false;
-        for (int i = 0; i < URL.length() + searchTerm.length(); i++) {
+        for (int i = 0; i < buildTogether.length(); i++) {
             char c = buildTogether.charAt(i);
             Map<Character,TrieNode> children = current.getChildren();
             if(children.containsKey(c)){
@@ -26,15 +23,15 @@ class Trie{
                 children.put(c, trieNode);
                 current = children.get(c);
             }
-            if(!groupSet && buildTogether.substring(0,i).contains(grouping)){
-                current.setGroupName(grouping);
+            if(!groupSet && buildTogether.substring(0,i).contains(searchResult.getGrouping())){
+                current.setGroupName(searchResult.getGrouping());
                 groupSet = true;
             }
-            if(i == searchTerm.length() - 1){
-                current.setSearchTerm(searchTerm);
+            if(i == searchResult.getSearchQuery().length() - 1){
+                current.setSearchTerm(searchResult.getSearchQuery());
             }
         }
-        current.setLeaf(true, rank);
+        current.setLeaf(true, String.valueOf(searchResult.getRank()));
     }
 
     public boolean searchWord(String word){
@@ -73,7 +70,7 @@ class Trie{
             sequence.deleteCharAt(level);
         }
     }
-    public void printWith(TrieNode rootNode,TrieNode groupNode, int level, StringBuilder sequence, Map<String, List<String>> toProcess) {
+    public void printWith(TrieNode rootNode,TrieNode groupNode, int level, StringBuilder sequence, Map<String, List<List<String>>> toProcess) {
         if(rootNode.isLeaf()){
             sequence = sequence.insert(level, rootNode.getC());
 //            System.out.println(sequence);
@@ -86,7 +83,10 @@ class Trie{
         if(groupNode != null){
 //            System.out.println(groupNode.getGroupName()+" GROUP NAME");
             if(rootNode.isLeaf()){
-                toProcess.put(groupNode.getGroupName(), Arrays.asList(sequence.toString(), rootNode.getRank()));
+                if(!toProcess.containsKey(groupNode.getGroupName())){
+                   toProcess.put(groupNode.getGroupName(), new ArrayList<>());
+                }
+                toProcess.get(groupNode.getGroupName()).add(Arrays.asList(sequence.toString(), rootNode.getRank()));
             }
         }
 

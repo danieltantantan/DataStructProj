@@ -11,25 +11,49 @@ public class Main {
 
     public static void main(String[] args) throws Exception
    {
-      //Build reader instance
-      //Read data.csv
-      //Default seperator is comma
-      //Default quote character is double quote
-      //Start reading from line number 2 (line numbers start from zero)
-      CSVReader reader = new CSVReader(new FileReader("./src/CS201.csv"));
-      //Read CSV line by line and use the string array as you want
-      String[] nextLine;
+
       Trie trie = new Trie();
-       while ((nextLine = reader.readNext()) != null) {
-         if (nextLine != null) {
-            //Verifying the read data here
-//             System.out.println(nextLine[3]);
-             trie.insertWord(nextLine[0], nextLine[3], nextLine[4], nextLine[1]);
-         }
+       SearchResultDAO SRDAO = new SearchResultDAO();
+       List<Node> heads = SRDAO.getQueries();
+       for(Node temp : heads){
+           while(temp.getNext()!= null){
+               Node searchObj = temp.getNext();
+               if (searchObj.getElement() instanceof SearchResult){
+                   SearchResult test1 = (SearchResult) searchObj.getElement();
+                   trie.insertWord(test1);
+               }
+               temp = temp.getNext();
+           }
        }
-       TrieNode node = trie.searchPrefix("data science");
-       Map<String, List<String>> toProcess = new HashMap<>();
-       trie.printWith(node,null,0, new StringBuilder(""),toProcess);
-       System.out.println(toProcess.toString());
+       String word = args[0];
+       TrieNode node = trie.searchPrefix(word);
+       Map<String, List<List<String>>> toProcess = new HashMap<>();
+       try{
+        trie.printWith(node,null,0, new StringBuilder(""),toProcess);
+        Iterator<String> iterateFinal = toProcess.keySet().iterator();
+        Map<Integer,String> forSorting = new TreeMap<>();
+        while (iterateFinal.hasNext()) {
+            String group = iterateFinal.next();
+            Collections.sort(toProcess.get(group), new Comparator<List<String>> () {
+                @Override
+                public int compare(List<String> a, List<String> b) {
+                    return a.get(1).compareTo(b.get(1));
+                }
+            });
+            forSorting.put(Integer.parseInt(toProcess.get(group).get(0).get(1)), group);
+        }
+        Map<String, List<List<String>>> sortedMap = new LinkedHashMap<>();
+        Iterator<Integer> resultIterator = forSorting.keySet().iterator();
+        while (resultIterator.hasNext()) {
+            Integer temp = resultIterator.next();
+            String group = forSorting.get(temp);
+            sortedMap.put(group, toProcess.get(group));
+        }
+        System.out.println(sortedMap.toString());
+       }catch(Exception e){
+           System.out.println("Word not found");
+       }
+      
    }
+
 }

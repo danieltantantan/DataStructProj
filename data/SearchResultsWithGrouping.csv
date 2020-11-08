@@ -1,4 +1,4 @@
-Search query,Rank,Title,URL,grouping
+Search Query,Rank,Title,URL,Domains
 analytics,1,Google Analytics,https://analytics.google.com/analytics/web/,analytics.google.com
 analytics,2,Analytics Tools & Solutions for Your Business - Google Analytics,https://marketingplatform.google.com/about/analytics/,marketingplatform.google.com
 analytics,3,Analytics & Data Analysis Features List - Analytics,https://marketingplatform.google.com/about/analytics/features/,marketingplatform.google.com
@@ -11,7 +11,7 @@ analytics,9,Google Analytics - Apps on Google Play,https://play.google.com/store
 analytics,10,Google Analytics products | Google Blog,https://blog.google/products/marketingplatform/analytics/,blog.google
 analytics,11,Advertising Analytics 2.0 - Harvard Business Review,https://hbr.org/2013/03/advertising-analytics-20,hbr.org
 analytics,12,Adobe Analytics achieves a 224% ROI.,https://www.adobe.com/sea/analytics/adobe-analytics.html,www.adobe.com
-analytics,13,"Artificial Intelligence, Big Data Analytics and Insight",https://www.analyticsinsight.net/,www.analyticsinsight.net
+analytics,13,Artificial Intelligence, Big Data Analytics and Insight,https://www.analyticsinsight.net/,www.analyticsinsight.net
 analytics,14,How to Use Google Analytics [The Absolute Beginner's Guide ...,https://moz.com/blog/absolute-beginners-guide-to-google-analytics,moz.com
 analytics,15,Meet Google Analytics 4: Google's vision for the future of ...,https://searchengineland.com/google-analytics-4-adds-new-integrations-with-ads-ai-powered-insights-and-predictions-342048,searchengineland.com
 analytics,16,Big Data Analytics - What it is and why it matters | SAS,https://www.sas.com/en_us/insights/analytics/big-data-analytics.html,www.sas.com
@@ -30,7 +30,7 @@ analytics,28,How to Use Google Analytics: A Complete Guide,https://www.searcheng
 analytics,29,Strategy Analytics: Predictive Analysis | Intelligent Analysis ...,https://www.strategyanalytics.com/,www.strategyanalytics.com
 analytics,30,Definition of Analytics - Gartner Information Technology Glossary,https://www.gartner.com/en/information-technology/glossary/analytics,www.gartner.com
 analytics,31,What is Data Analytics? - Definition from WhatIs.com,https://searchdatamanagement.techtarget.com/definition/data-analytics,searchdatamanagement.techtarget.com
-analytics,32,"Facebook Analytics: Drive Growth to Web, Mobile & More",https://analytics.facebook.com/,analytics.facebook.com
+analytics,32,Facebook Analytics: Drive Growth to Web, Mobile & More,https://analytics.facebook.com/,analytics.facebook.com
 analytics,33,Analytics | Definition of Analytics by Merriam-Webster,https://www.merriam-webster.com/dictionary/analytics,www.merriam-webster.com
 analytics,34,Analytics | Definition of Analytics at Dictionary.com,https://www.dictionary.com/browse/analytics,www.dictionary.com
 analytics,35,Business Intelligence and Analytics Software,https://www.tableau.com/,www.tableau.com
@@ -38,7 +38,7 @@ analytics,36,6 Google Analytics Tips for Business Insight Way Beyond Traffic,htt
 analytics,37,Council Post: Nine Things To Know About Google Analytics,https://www.forbes.com/sites/forbesagencycouncil/2020/01/02/nine-things-to-know-about-google-analytics/,www.forbes.com
 analytics,38,Campaign URL Builder ? Google Analytics Demos & Tools,https://ga-dev-tools.appspot.com/campaign-url-builder/,ga-dev-tools.appspot.com
 analytics,39,Lynx Analytics | Data Analytics and AI Solutions,https://www.lynxanalytics.com/,www.lynxanalytics.com
-analytics,40,"COVID-19 related analytics, graphs, and charts | Corona Tracker",https://www.coronatracker.com/analytics/,www.coronatracker.com
+analytics,40,COVID-19 related analytics, graphs, and charts | Corona Tracker,https://www.coronatracker.com/analytics/,www.coronatracker.com
 analytics,41,Analytics Academy : Google - Skillshop,https://skillshop.exceedlms.com/student/catalog/list?category_ids=540-analytics-academy,skillshop.exceedlms.com
 analytics,42,Analytics Magazine - INFORMS PubsOnline - INFORMS.org,https://pubsonline.informs.org/magazine/analytics,pubsonline.informs.org
 analytics,43,Master in Data Sciences & Business Analytics (DSBA ...,http://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/,www.essec.edu
@@ -53,18 +53,18 @@ analytics,51,Pinterest Analytics,https://analytics.pinterest.com/,analytics.pint
 analytics,52,SimilarWeb: Website Traffic Statistics & Analytics,https://www.similarweb.com/,www.similarweb.com
 analytics,53,Analytics | DXC Technology,https://www.dxc.technology/analytics,www.dxc.technology
 analytics,54,Adding Your Google Analytics Tracking ID to Your Wix Site ...,https://support.wix.com/en/article/adding-your-google-analytics-tracking-id-to-your-wix-site,support.wix.com
-analytics,55,"Alteryx: Self-Service Analytics, Data Science & Process ...",https://www.alteryx.com/,www.alteryx.com
+analytics,55,Alteryx: Self-Service Analytics, Data Science & Process ...,https://www.alteryx.com/,www.alteryx.com
 analytics,56,Matomo Analytics - The Google Analytics alternative that ...,https://matomo.org/,matomo.org
 analytics,57,Data Lakes and Analytics on AWS - Amazon Web Services,https://aws.amazon.com/big-data/datalakes-and-analytics/,aws.amazon.com
 analytics,58,Google Analytics Dashboard Plugin for WordPress by ...,https://wordpress.org/plugins/google-analytics-for-wordpress/,wordpress.org
 analytics,59,Analytic Information Hub: Financial Analysis Software | CCH ...,https://www.tagetik.com/sg/product/analytic-information-hub,www.tagetik.com
 analytics,60,Segment | Customer Data Platform (CDP),https://segment.com/,segment.com
-analytics,61,"Analytics Vidhya - Learn Machine learning, artificial ...",https://www.analyticsvidhya.com/,www.analyticsvidhya.com
+analytics,61,Analytics Vidhya - Learn Machine learning, artificial ...,https://www.analyticsvidhya.com/,www.analyticsvidhya.com
 analytics,62,Wastewater Surveillance Data Reporting & Analytics | CDC,https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/wastewater-surveillance/data-reporting-analytics.html,www.cdc.gov
 analytics,63,How to Install Google Analytics in WordPress for Beginners,https://www.wpbeginner.com/beginners-guide/how-to-install-google-analytics-in-wordpress/,www.wpbeginner.com
 analytics,64,Web Analytics Basics | Usability.gov,https://www.usability.gov/what-and-why/web-analytics.html,www.usability.gov
 analytics,65,Heap Analytics,https://heap.io/,heap.io
-analytics,66,"Mixpanel: Product Analytics for Mobile, Web, & More",https://mixpanel.com/,mixpanel.com
+analytics,66,Mixpanel: Product Analytics for Mobile, Web, & More,https://mixpanel.com/,mixpanel.com
 analytics,67,NUS Business Analytics Centre: Home,https://msba.nus.edu.sg/,msba.nus.edu.sg
 analytics,68,Digital Marketing Analytics and Reporting Tools: See What ...,https://mailchimp.com/features/reports-and-analytics/,mailchimp.com
 analytics,69,Webtrends,https://www.webtrends.com/,www.webtrends.com
@@ -75,14 +75,14 @@ analytics,73,Data Science vs. Big Data vs. Data Analytics - Simplilearn,https://
 analytics,74,Analytics Engines: Data Analytics Solution Providers ...,https://analyticsengines.com/,analyticsengines.com
 analytics,75,Master of Business Analytics | MIT Sloan,https://mitsloan.mit.edu/master-of-business-analytics,mitsloan.mit.edu
 analytics,76,Get started with analytics - Online Courses - Google Digital ...,https://learndigital.withgoogle.com/digitalgarage/course/customers-needs-behaviours/module/10,learndigital.withgoogle.com
-analytics,77,"Fathom Analytics: Fast, simple and privacy-focused website ...",https://usefathom.com/,usefathom.com
+analytics,77,Fathom Analytics: Fast, simple and privacy-focused website ...,https://usefathom.com/,usefathom.com
 analytics,78,Video analytics: understand your audience better with Vimeo,https://vimeo.com/features/video-analytics,vimeo.com
 analytics,79,Analytics Edge ? Simple Excel Automation,https://www.analyticsedge.com/,www.analyticsedge.com
 analytics,80,Predictive Analytics Online Course - Udacity,https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008,www.udacity.com
-analytics,81,"AgencyAnalytics | Reporting Software Trusted by 3,500+ ...",https://agencyanalytics.com/,agencyanalytics.com
+analytics,81,AgencyAnalytics | Reporting Software Trusted by 3,500+ ...,https://agencyanalytics.com/,agencyanalytics.com
 analytics,82,Cloudflare Web Analytics | Cloudflare,https://www.cloudflare.com/web-analytics/,www.cloudflare.com
 analytics,83,Guide to the Digital Analytics Program ? Digital.gov,https://digital.gov/guides/dap/,digital.gov
-analytics,84,"Business Data, Insights & Analytics - SAP Concur Singapore",https://www.concur.com.sg/analytics,www.concur.com.sg
+analytics,84,Business Data, Insights & Analytics - SAP Concur Singapore,https://www.concur.com.sg/analytics,www.concur.com.sg
 analytics,85,Analytics information - IXL,https://www.ixl.com/analytics/,www.ixl.com
 analytics,86,Self-service BI & Analytics Software ? Zoho Analytics,https://www.zoho.com/analytics/,www.zoho.com
 analytics,87,ANALYTICS | meaning in the Cambridge English Dictionary,https://dictionary.cambridge.org/dictionary/english/analytics,dictionary.cambridge.org
@@ -91,7 +91,7 @@ analytics,89,IoT Analytics - Market insights for the Internet of Things,https://
 analytics,90,The Analytics Edge | edX,https://www.edx.org/course/the-analytics-edge,www.edx.org
 analytics,91,Master of Science in Analytics - University of Chicago Graham ...,https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics,grahamschool.uchicago.edu
 analytics,92,Clarivate: Trusted insights and analytics,https://clarivate.com/,clarivate.com
-analytics,93,"Analytics-Toolkit.com - Google Analytics Tools for SEO, SEM ...",https://www.analytics-toolkit.com/,www.analytics-toolkit.com
+analytics,93,Analytics-Toolkit.com - Google Analytics Tools for SEO, SEM ...,https://www.analytics-toolkit.com/,www.analytics-toolkit.com
 analytics,94,27 Free and Paid Social Media Analytics for Marketers - Buffer,https://buffer.com/library/social-media-analytics-tools/,buffer.com
 analytics,95,Google Analytics - YouTube,https://www.youtube.com/user/googleanalytics,www.youtube.com
 analytics,96,Traffic Analytics: Check Any Website's Traffic in One Click ...,https://www.semrush.com/analytics/traffic/,www.semrush.com
@@ -105,7 +105,7 @@ artificial intelligence,5,3 Things AI Can Already Do for Your Company,https://hb
 artificial intelligence,6,Artificial Intelligence – What it is and why it matters | SAS,https://www.sas.com/en_sg/insights/analytics/what-is-artificial-intelligence.html,www.sas.com
 artificial intelligence,7,What is AI? Everything you need to know about Artificial ...,https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/,www.zdnet.com
 artificial intelligence,8,Artificial intelligence articles | McKinsey & Company,https://www.mckinsey.com/featured-insights/artificial-intelligence,www.mckinsey.com
-artificial intelligence,9,"artificial intelligence | Definition, Examples, and Applications ...",https://www.britannica.com/technology/artificial-intelligence,www.britannica.com
+artificial intelligence,9,artificial intelligence | Definition, Examples, and Applications ...,https://www.britannica.com/technology/artificial-intelligence,www.britannica.com
 artificial intelligence,10,What is artificial intelligence? - Brookings Institution,https://www.brookings.edu/research/what-is-artificial-intelligence/,www.brookings.edu
 artificial intelligence,11,What is Artificial Intelligence (AI)? - SearchEnterpriseAI,https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence,searchenterpriseai.techtarget.com
 artificial intelligence,12,What Is Artificial Intelligence | Accenture,https://www.accenture.com/sg-en/insights/artificial-intelligence-summary-index,www.accenture.com
@@ -115,7 +115,7 @@ artificial intelligence,15,What is AI? - Bernard Marr,https://www.bernardmarr.co
 artificial intelligence,16,Understanding the Four Types of Artificial Intelligence,https://www.govtech.com/computing/Understanding-the-Four-Types-of-Artificial-Intelligence.html,www.govtech.com
 artificial intelligence,17,Artificial Intelligence News -- ScienceDaily,https://www.sciencedaily.com/news/computers_math/artificial_intelligence/,www.sciencedaily.com
 artificial intelligence,18,Artificial intelligence - Organisation for Economic Co-operation ...,https://www.oecd.org/going-digital/ai/,www.oecd.org
-artificial intelligence,19,"Artificial general intelligence: Are we close, and does it even ...",https://www.technologyreview.com/2020/10/15/1010461/artificial-general-intelligence-robots-ai-agi-deepmind-google-openai/,www.technologyreview.com
+artificial intelligence,19,Artificial general intelligence: Are we close, and does it even ...,https://www.technologyreview.com/2020/10/15/1010461/artificial-general-intelligence-robots-ai-agi-deepmind-google-openai/,www.technologyreview.com
 artificial intelligence,20,Learn Artificial Intelligence with Online Courses and Lessons ...,https://www.edx.org/learn/artificial-intelligence,www.edx.org
 artificial intelligence,21,Artificial Intelligence and IP,https://www.wipo.int/about-ip/en/artificial_intelligence/,www.wipo.int
 artificial intelligence,22,Artificial Intelligence for the American People | The White House,https://www.whitehouse.gov/ai/,www.whitehouse.gov
@@ -137,7 +137,7 @@ artificial intelligence,37,Artificial Intelligence (AI) - ICAO,https://www.icao.
 artificial intelligence,38,Artificial Intelligence - Atos,https://atos.net/en/artificial-intelligence,atos.net
 artificial intelligence,39,Artificial Intelligence News: Latest Advancements in AI ...,https://www.businessinsider.com/artificial-intelligence,www.businessinsider.com
 artificial intelligence,40,The Next Generation Of Artificial Intelligence - Forbes,https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/,www.forbes.com
-artificial intelligence,41,"Artificial intelligence – News, Research and Analysis – The ...",https://theconversation.com/global/topics/artificial-intelligence-90,theconversation.com
+artificial intelligence,41,Artificial intelligence – News, Research and Analysis – The ...,https://theconversation.com/global/topics/artificial-intelligence-90,theconversation.com
 artificial intelligence,42,Artificial Intelligence - Journal - Elsevier,https://www.journals.elsevier.com/artificial-intelligence,www.journals.elsevier.com
 artificial intelligence,43,Definition of Artificial Intelligence (AI) - Gartner Information ...,https://www.gartner.com/en/information-technology/glossary/artificial-intelligence,www.gartner.com
 artificial intelligence,44,AI For Everyone | Coursera,https://www.coursera.org/learn/ai-for-everyone,www.coursera.org
@@ -169,13 +169,13 @@ artificial intelligence,69,Artificial Intelligence - JP Morgan,https://www.jpmor
 artificial intelligence,70,Artificial Intelligence - The New York Times,https://www.nytimes.com/topic/subject/artificial-intelligence,www.nytimes.com
 artificial intelligence,71,Understanding Artificial Intelligence – Towards AI — The Best ...,https://towardsai.net/p/artificial-intelligence/understanding-artificial-intelligence,towardsai.net
 artificial intelligence,72,Artificial Intelligence Will Do What We Ask. That's a Problem ...,https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/,www.quantamagazine.org
-artificial intelligence,73,"artificial intelligence news, articles and features | New Scientist",https://www.newscientist.com/article-topic/artificial-intelligence/,www.newscientist.com
+artificial intelligence,73,artificial intelligence news, articles and features | New Scientist,https://www.newscientist.com/article-topic/artificial-intelligence/,www.newscientist.com
 artificial intelligence,74,What Is Artificial Intelligence (AI)? - PCMag Asia,https://sea.pcmag.com/news/32558/what-is-artificial-intelligence-ai,sea.pcmag.com
 artificial intelligence,75,Artificial Intelligence - an overview | ScienceDirect Topics,https://www.sciencedirect.com/topics/psychology/artificial-intelligence,www.sciencedirect.com
 artificial intelligence,76,Artificial Intelligence | Internet Encyclopedia of Philosophy,https://iep.utm.edu/art-inte/,iep.utm.edu
 artificial intelligence,77,Artificial intelligence with human values for sustainable ...,https://en.unesco.org/artificial-intelligence,en.unesco.org
 artificial intelligence,78,Artificial Intelligence authors/titles recent submissions - arXiv,https://arxiv.org/list/cs.AI/recent,arxiv.org
-artificial intelligence,79,"artificial intelligence: Latest News & Videos, Photos about ...",https://economictimes.indiatimes.com/topic/artificial-intelligence,economictimes.indiatimes.com
+artificial intelligence,79,artificial intelligence: Latest News & Videos, Photos about ...,https://economictimes.indiatimes.com/topic/artificial-intelligence,economictimes.indiatimes.com
 artificial intelligence,80,How Artificial Intelligence Is Transforming Business ...,https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html,www.businessnewsdaily.com
 artificial intelligence,81,Firmenich creates 'world's first' flavour by artificial intelligence,https://www.foodnavigator.com/Article/2020/10/05/Firmenich-creates-world-s-first-flavour-by-artificial-intelligence,www.foodnavigator.com
 artificial intelligence,82,Everyday Examples of Artificial Intelligence and Machine ...,https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/,emerj.com
@@ -183,27 +183,27 @@ artificial intelligence,83,Artificial Intelligence | Philips,https://www.philips
 artificial intelligence,84,Explainable Artificial Intelligence - darpa,https://www.darpa.mil/program/explainable-artificial-intelligence,www.darpa.mil
 artificial intelligence,85,A free online introduction to artificial intelligence for non-experts,https://www.elementsofai.com/,www.elementsofai.com
 artificial intelligence,86,The History of Artificial Intelligence - Science in the News,http://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/,sitn.hms.harvard.edu
-artificial intelligence,87,"Artificial Intelligence news, analysis, how-to, opinion and ...",https://www.cio.com/category/artificial-intelligence,www.cio.com
+artificial intelligence,87,Artificial Intelligence news, analysis, how-to, opinion and ...,https://www.cio.com/category/artificial-intelligence,www.cio.com
 artificial intelligence,88,AI Experiments | Experiments with Google,https://experiments.withgoogle.com/collection/ai,experiments.withgoogle.com
 artificial intelligence,89,Artificial Intelligence (AI) for Contact Centers | Avaya OneCloud,https://www.avaya.com/en/products/ccaas/artificial-intelligence/,www.avaya.com
 artificial intelligence,90,Artificial intelligence (AI) - CNET,https://www.cnet.com/tags/artificial-intelligence/,www.cnet.com
 artificial intelligence,91,Artificial Intelligence (AI),https://www.nibib.nih.gov/science-education/science-topics/artificial-intelligence-ai,www.nibib.nih.gov
 artificial intelligence,92,Artificial Intelligence - Springer,https://www.springer.com/gp/computer-science/ai,www.springer.com
 artificial intelligence,93,Frontiers in Artificial Intelligence,https://www.frontiersin.org/journals/artificial-intelligence,www.frontiersin.org
-artificial intelligence,94,"What is Artificial Intelligence? How Does AI Work, Applications ...",https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/,www.mygreatlearning.com
-artificial intelligence,95,"Artificial intelligence - Latest news, opinion and analysis | The ...",https://thenextweb.com/vocabulary/artificial-intelligence/,thenextweb.com
+artificial intelligence,94,What is Artificial Intelligence? How Does AI Work, Applications ...,https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/,www.mygreatlearning.com
+artificial intelligence,95,Artificial intelligence - Latest news, opinion and analysis | The ...,https://thenextweb.com/vocabulary/artificial-intelligence/,thenextweb.com
 artificial intelligence,96,Artificial Intelligence & Machine Learning - Cisco,https://www.cisco.com/c/en/us/solutions/artificial-intelligence.html,www.cisco.com
 artificial intelligence,97,What Will Our Society Look Like When Artificial Intelligence Is ...,https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/,www.smithsonianmag.com
 covid-19,1,Updates on COVID-19 (Coronavirus Disease 2019 ... - MOH,https://www.moh.gov.sg/covid-19,www.moh.gov.sg
-covid-19,2,"Singapore reports 7 new COVID-19 cases, including 6 ... - CNA",https://www.channelnewsasia.com/news/singapore/covid-19-oct-27-new-cases-imported-community-dormitory-moh-13381564,www.channelnewsasia.com
-covid-19,3,"More travellers, including those from Japan and Thailand, can ...",https://www.channelnewsasia.com/news/singapore/covid-19-stay-home-notice-travellers-to-singapore-japan-thailand-13384818,www.channelnewsasia.com
+covid-19,2,Singapore reports 7 new COVID-19 cases, including 6 ... - CNA,https://www.channelnewsasia.com/news/singapore/covid-19-oct-27-new-cases-imported-community-dormitory-moh-13381564,www.channelnewsasia.com
+covid-19,3,More travellers, including those from Japan and Thailand, can ...,https://www.channelnewsasia.com/news/singapore/covid-19-stay-home-notice-travellers-to-singapore-japan-thailand-13384818,www.channelnewsasia.com
 covid-19,4,COVID-19 (Coronavirus Disease 2019) - gov.sg,https://www.gov.sg/features/covid-19,www.gov.sg
-covid-19,5,"7 new Covid-19 cases in Singapore, with 1 in community and ...",https://www.straitstimes.com/singapore/7-new-covid-19-cases-in-singapore-including-1-in-the-community-and-6-imported,www.straitstimes.com
+covid-19,5,7 new Covid-19 cases in Singapore, with 1 in community and ...,https://www.straitstimes.com/singapore/7-new-covid-19-cases-in-singapore-including-1-in-the-community-and-6-imported,www.straitstimes.com
 covid-19,6,Coronavirus disease (COVID-19) - World Health Organization,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,www.who.int
 covid-19,7,FAQs on COVID-19 - National Centre for Infectious Diseases,https://www.ncid.sg/For-General-Public/Pages/Frequently-Asked-Questions-on-COVID-19-.aspx,www.ncid.sg
 covid-19,8,Advisories on COVID-19 - Ministry of Manpower,https://www.mom.gov.sg/covid-19,www.mom.gov.sg
 covid-19,9,Border Control Measures in Response to COVID-19 ... - ICA,https://www.ica.gov.sg/covid-19,www.ica.gov.sg
-covid-19,10,"Coronavirus Update (Live): 43,875,030 Cases and 1,166,123 ...",https://www.worldometers.info/coronavirus/,www.worldometers.info
+covid-19,10,Coronavirus Update (Live): 43,875,030 Cases and 1,166,123 ...,https://www.worldometers.info/coronavirus/,www.worldometers.info
 covid-19,11,COVID-19 (Coronavirus Disease 2019) | Duke-NUS Medical ...,https://www.duke-nus.edu.sg/covid-19,www.duke-nus.edu.sg
 covid-19,12,Coronavirus Disease 2019 (COVID-19) | CDC,https://www.cdc.gov/coronavirus/2019-ncov/index.html,www.cdc.gov
 covid-19,13,COVID-19 Information | U.S. Embassy in Singapore,https://sg.usembassy.gov/u-s-citizen-services/covid-19-information/,sg.usembassy.gov
@@ -251,7 +251,7 @@ covid-19,54,Coronavirus (Covid-19) ? NEJM,https://www.nejm.org/coronavirus,www.n
 covid-19,55,COVID-19 Updates and Return to School Plan | Stamford ...,https://www.sais.edu.sg/covid-19-updates/,www.sais.edu.sg
 covid-19,56,Coronavirus disease (COVID-19) information centre | UNICEF,https://www.unicef.org/coronavirus/covid-19,www.unicef.org
 covid-19,57,Coronavirus (COVID-19): safer travel guidance for passengers ...,https://www.gov.uk/guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers,www.gov.uk
-covid-19,58,"COVID-19 | Gilead - Gilead Sciences, Inc.",https://www.gilead.com/purpose/advancing-global-health/covid-19,www.gilead.com
+covid-19,58,COVID-19 | Gilead - Gilead Sciences, Inc.,https://www.gilead.com/purpose/advancing-global-health/covid-19,www.gilead.com
 covid-19,59,COVID-19 and world trade - WTO,https://www.wto.org/english/tratop_e/covid19_e/covid19_e.htm,www.wto.org
 covid-19,60,Coronavirus Information & Insights - Google,https://www.google.com/covid19/,www.google.com
 covid-19,61,Coronavirus disease 2019 (COVID-19) - Symptoms and ...,https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963,www.mayoclinic.org
@@ -286,12 +286,12 @@ covid-19,89,Coronavirus disease COVID-19 pandemic | UNDP,https://www.undp.org/co
 covid-19,90,People's Association: Home,https://www.pa.gov.sg/,www.pa.gov.sg
 covid-19,91,[COVID-19 measures] Temporary Closure of Traditional ...,https://www.healthprofessionals.gov.sg/tcmpb/en/home/announcements,www.healthprofessionals.gov.sg
 covid-19,92,[COVID-19 measures] Temporary Closure of Singapore ...,https://www.healthprofessionals.gov.sg/snb/home/Announcements/Index/covid-19-measures-temporary-closure-of-singapore-nursing-board-office-premises,www.healthprofessionals.gov.sg
-covid-19,93,"2019 Coronavirus (COVID-19): Symptoms, Treatment, and ...",https://www.healthline.com/health/coronavirus-covid-19,www.healthline.com
+covid-19,93,2019 Coronavirus (COVID-19): Symptoms, Treatment, and ...,https://www.healthline.com/health/coronavirus-covid-19,www.healthline.com
 covid-19,94,COVID-19 resources | Cochrane Library,https://www.cochranelibrary.com/covid-19,www.cochranelibrary.com
 covid-19,95,CEA measures and guidance for COVID-19,https://www.cea.gov.sg/news-publications/press-releases/covid-19-cea-s-measures-and-guidance,www.cea.gov.sg
 covid-19,96,Infectious Diseases Society of America Guidelines on the ...,https://www.idsociety.org/practice-guideline/covid-19-guideline-treatment-and-management/,www.idsociety.org
 covid-19,97,COVID-19 Support: Office 365 ? Data Connect Technologies ...,https://d-connect.net/covid-19-support-packages/,d-connect.net
-covid-19,98,"Coronavirus Disease-19(COVID-19), Republic of Korea",http://ncov.mohw.go.kr/en/,ncov.mohw.go.kr
+covid-19,98,Coronavirus Disease-19(COVID-19), Republic of Korea,http://ncov.mohw.go.kr/en/,ncov.mohw.go.kr
 covid-19,99,Coronavirus (COVID-19) | NICE,https://www.nice.org.uk/covid-19,www.nice.org.uk
 covid-19,100,COVID-19 Testing Solutions | Thermo Fisher Scientific - SG,https://www.thermofisher.com/sg/en/home/clinical/clinical-genomics/pathogen-detection-solutions/covid-19-sars-cov-2.html,www.thermofisher.com
 cybersecurity courses,1,Cyber Security Courses to Boost Your Career - NTUC ...,https://www.ntuclearninghub.com/cyber-security-courses-boost-career/,www.ntuclearninghub.com
@@ -311,9 +311,9 @@ cybersecurity courses,14,IMTalent | SkillsFuture Series Cybersecurity - IMDA,htt
 cybersecurity courses,15,EC-Council Cybersecurity Courses - Kaplan Singapore,https://www.kaplan.com.sg/ec-council-cyber-security-courses/,www.kaplan.com.sg
 cybersecurity courses,16,Defend the interwebs with the help of these 12 cybersecurity ...,https://digitalsenior.sg/cyber-security-course-singapore/,digitalsenior.sg
 cybersecurity courses,17,Fundamentals of Cyber Security | Temasek Polytechnic,https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/cybersecurity/fundamentals-of-cyber-security.html,www.tp.edu.sg
-cybersecurity courses,18,"Top 5 Cybersecurity Courses and Certifications, from ...",https://www.cbronline.com/opinion/top-5-cybersecurity-courses,www.cbronline.com
+cybersecurity courses,18,Top 5 Cybersecurity Courses and Certifications, from ...,https://www.cbronline.com/opinion/top-5-cybersecurity-courses,www.cbronline.com
 cybersecurity courses,19,Cyber Security Course | Cyber Security Certification Training,https://www.simplilearn.com/cyber-security/,www.simplilearn.com
-cybersecurity courses,20,"Cyber Security Training | SANS Courses, Certifications ...",https://www.sans.org/,www.sans.org
+cybersecurity courses,20,Cyber Security Training | SANS Courses, Certifications ...,https://www.sans.org/,www.sans.org
 cybersecurity courses,21,Start A Tech Career with these IT Courses in Singapore · BGC ...,https://www.bgc-group.com/blog/2019/04/it-cyber-security-courses-singapore,www.bgc-group.com
 cybersecurity courses,22,SkillsFuture Series - SkillsFuture,https://www.skillsfuture.sg/series,www.skillsfuture.sg
 cybersecurity courses,23,7 Best Cyber Security Courses Online for Beginners in 2020,https://www.comparitech.com/blog/information-security/cybersecurity-course-online/,www.comparitech.com
@@ -321,7 +321,7 @@ cybersecurity courses,24,Cyber Security Essentials View Course Info - Ngee Ann .
 cybersecurity courses,25,Cybrary: Free Cybersecurity Training and Career Development,https://www.cybrary.it/,www.cybrary.it
 cybersecurity courses,26,Cyber Security Foundation - ALC Training,https://www.alctraining.com.sg/course/cyber-security-foundation/,www.alctraining.com.sg
 cybersecurity courses,27,Learn Cybersecurity with Online Courses and Classes | edX,https://www.edx.org/learn/cybersecurity,www.edx.org
-cybersecurity courses,28,"Aviation Cyber Security (Classroom, 3 days) - IATA",https://www.iata.org/en/training/courses/aviation-cyber-security/tscs59/en/,www.iata.org
+cybersecurity courses,28,Aviation Cyber Security (Classroom, 3 days) - IATA,https://www.iata.org/en/training/courses/aviation-cyber-security/tscs59/en/,www.iata.org
 cybersecurity courses,29,Full-Time Bachelor of Computer Science (Cyber Security ...,https://www.simge.edu.sg/programme/bachelor-of-computer-science-cyber-security/,www.simge.edu.sg
 cybersecurity courses,30,Cyber Security Foundation Course - iKompass Singapore ...,https://ikompass.edu.sg/cyber-security-foundation-course/,ikompass.edu.sg
 cybersecurity courses,31,Info and Cyber Security Training | Pluralsight,https://www.pluralsight.com/browse/information-cyber-security,www.pluralsight.com
@@ -357,7 +357,7 @@ cybersecurity courses,60,Cybersecurity Graduate Certificate | Stanford Online,ht
 cybersecurity courses,61,22 cybersecurity courses for aspiring and in-demand IT ...,https://www.techrepublic.com/article/22-cybersecurity-courses-for-aspiring-and-in-demand-it-security-pros/,www.techrepublic.com
 cybersecurity courses,62,Two Day Seminar: Cybersecurity for Internal Auditors,https://iia.org.sg/Training-and-Conferences/Past-Courses/Cybersecurity-for-Internal-Auditors,iia.org.sg
 cybersecurity courses,63,Introduction to cyber security: stay safe online - The Open ...,https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview,www.open.edu
-cybersecurity courses,64,"Security Online Training Courses | LinkedIn Learning, formerly ...",https://www.linkedin.com/learning/topics/security-3,www.linkedin.com
+cybersecurity courses,64,Security Online Training Courses | LinkedIn Learning, formerly ...,https://www.linkedin.com/learning/topics/security-3,www.linkedin.com
 cybersecurity courses,65,Cyber Security Courses & Certificates | What is a career in ...,https://www.qa.com/training/courses/cyber-security/,www.qa.com
 cybersecurity courses,66,Training - National Initiative for Cybersecurity Careers and ...,https://niccs.us-cert.gov/training,niccs.us-cert.gov
 cybersecurity courses,67,Courses | Cyber Aces | Free online cybersecurity courses,https://www.cyberaces.org/courses.html,www.cyberaces.org
@@ -383,25 +383,25 @@ cybersecurity courses,86,Online Cyber Security Courses & Training | IT Governanc
 cybersecurity courses,87,NCSC Certified Training - NCSC.GOV.UK - National Cyber ...,https://www.ncsc.gov.uk/information/certified-training,www.ncsc.gov.uk
 cybersecurity courses,88,81 Short Courses in IT Security - ShortCoursesPortal.com,https://www.shortcoursesportal.com/disciplines/285/it-security.html,www.shortcoursesportal.com
 cybersecurity courses,89,Cybersecurity: Managing Risk in the Information Age | Harvard ...,https://online-learning.harvard.edu/course/cybersecurity-managing-risk-information-age,online-learning.harvard.edu
-cybersecurity courses,90,"Enterprise Security, Cyber Security Course in Singapore",https://hackwagon.com/cyber-security-101/,hackwagon.com
+cybersecurity courses,90,Enterprise Security, Cyber Security Course in Singapore,https://hackwagon.com/cyber-security-101/,hackwagon.com
 cybersecurity courses,91,Short Course in Cyber Security - NCC Education,https://www.nccedu.com/qualification/short-course-in-cyber-security/,www.nccedu.com
 cybersecurity courses,92,professional-certification-in-cyber-security-and-intelligence,https://aventislearning.com/course/professional-certification-in-cyber-security-and-intelligence/,aventislearning.com
 cybersecurity courses,93,Cyber security | Deakin,https://www.deakin.edu.au/courses/find-a-course/information-technology/cyber-security,www.deakin.edu.au
 cybersecurity courses,94,Best Courses in Cybersecurity 2020/2021 - AcademicCourses,https://www.academiccourses.com/Courses/Cyber-Security/,www.academiccourses.com
 cybersecurity courses,95,Fundamentals of Cybersecurity | Temasek Polytechnic,https://www.openlearning.com/temasek-polytechnic/courses/fundamentals-of-cybersecurity/,www.openlearning.com
-cybersecurity courses,96,"IBM to train 800 mid-career people in AI, cyber security, Tech ...",https://www.straitstimes.com/tech/ibm-to-train-800-mid-career-people-in-ai-cyber-security,www.straitstimes.com
+cybersecurity courses,96,IBM to train 800 mid-career people in AI, cyber security, Tech ...,https://www.straitstimes.com/tech/ibm-to-train-800-mid-career-people-in-ai-cyber-security,www.straitstimes.com
 cybersecurity courses,97,Cyber Security Degree Online | Earn Your Bachelor's | SNHU,https://www.snhu.edu/online-degrees/bachelors/cyber-security,www.snhu.edu
 cybersecurity courses,98,Maritime Cyber Security Awareness E-learning - DNV GL,https://www.dnvgl.com/maritime/maritime-academy/cyber-security-elearning.html,www.dnvgl.com
 cybersecurity courses,99,Cyber Security/Info Assurance Program - Ivy Tech Community ...,https://www.ivytech.edu/cyber-security/,www.ivytech.edu
-data science,1,Data science - Wikipedia,"https://en.wikipedia.org/wiki/Data_science#:~:text=Data%20science%20is%20a%20%22concept,domain%20knowledge%20and%20information%20science.",en.wikipedia.org
+data science,1,Data science - Wikipedia,https://en.wikipedia.org/wiki/Data_science#:~:text=Data%20science%20is%20a%20%22concept,domain%20knowledge%20and%20information%20science.,en.wikipedia.org
 data science,2,What Is Data Science? A Beginner's Guide To Data Science ...,https://www.edureka.co/blog/what-is-data-science/,www.edureka.co
 data science,3,What is Data Science? | Oracle Singapore,https://www.oracle.com/sg/data-science/what-is-data-science.html,www.oracle.com
 data science,4,Data Science | Oracle Singapore,https://www.oracle.com/sg/data-science/,www.oracle.com
 data science,5,Data Science Online Courses | Coursera,https://www.coursera.org/browse/data-science,www.coursera.org
 data science,6,What is Data Science? A Complete Guide. | Built In,https://builtin.com/data-science,builtin.com
 data science,7,Data Science - Singapore | IBM,https://www.ibm.com/sg-en/analytics/data-science,www.ibm.com
-data science,8,"Data Science: Online Courses from Harvard, MIT, Microsoft | edX",https://www.edx.org/course/subject/data-science,www.edx.org
-data science,9,"What Data Scientists Really Do, According to 35 Data Scientists",https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists,hbr.org
+data science,8,Data Science: Online Courses from Harvard, MIT, Microsoft | edX,https://www.edx.org/course/subject/data-science,www.edx.org
+data science,9,What Data Scientists Really Do, According to 35 Data Scientists,https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists,hbr.org
 data science,10,Data Science - Ngee Ann Polytechnic,https://www.np.edu.sg/ict/Pages/ds.aspx,www.np.edu.sg
 data science,11,Towards Data Science,https://towardsdatascience.com/,towardsdatascience.com
 data science,12,Data Science Course Singapore - Learn Data Science ...,https://generalassemb.ly/education/data-science/singapore,generalassemb.ly
@@ -409,16 +409,16 @@ data science,13,Data Science Online Courses & Programs - Udacity,https://www.uda
 data science,14,Learn to Become a Data Scientist Online - Udacity,https://www.udacity.com/course/data-scientist-nanodegree--nd025,www.udacity.com
 data science,15,Data Scientist | Codecademy,https://www.codecademy.com/learn/paths/data-science,www.codecademy.com
 data science,16,Data Science vs. Big Data vs. Data Analytics - Simplilearn,https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article,www.simplilearn.com
-data science,17,"Data science courses in Python, R, SQL, and more | DataCamp",https://www.datacamp.com/courses,www.datacamp.com
+data science,17,Data science courses in Python, R, SQL, and more | DataCamp,https://www.datacamp.com/courses,www.datacamp.com
 data science,18,Kaggle: Your Machine Learning and Data Science Community,https://www.kaggle.com/,www.kaggle.com
-data science,19,"What Is Data Science, and What Does a Data Scientist Do?",https://www.innoarchitech.com/blog/what-is-data-science-does-data-scientist-do,www.innoarchitech.com
+data science,19,What Is Data Science, and What Does a Data Scientist Do?,https://www.innoarchitech.com/blog/what-is-data-science-does-data-scientist-do,www.innoarchitech.com
 data science,20,Introduction to Data Science - Singapore University of ...,https://sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Data-Analytics/Introduction-to-Data-Science,sutd.edu.sg
 data science,21,Data Science Definition - Investopedia,https://www.investopedia.com/terms/d/data-science.asp,www.investopedia.com
 data science,22,Online Data Science Courses | Harvard University,https://online-learning.harvard.edu/subject/data-science,online-learning.harvard.edu
 data science,23,Doing Data Science at Twitter. A reflection of my two year ...,https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6,medium.com
 data science,24,What is data science? Transforming data into value | CIO,https://www.cio.com/article/3285108/what-is-data-science-a-method-for-turning-data-into-value.html,www.cio.com
 data science,25,What Is Data Science Definition | Learn Why Data Science Is ...,https://www.datarobot.com/wiki/data-science/,www.datarobot.com
-data science,26,"Dataquest: Learn R, Python and SQL for Data Science",https://www.dataquest.io/,www.dataquest.io
+data science,26,Dataquest: Learn R, Python and SQL for Data Science,https://www.dataquest.io/,www.dataquest.io
 data science,27,What is a data scientist? | SAS,https://www.sas.com/en_sg/insights/analytics/what-is-a-data-scientist.html,www.sas.com
 data science,28,IMTalent | Data Science Immersive - IMDA,https://www.imda.gov.sg/imtalent/training-and-courses/ga-data-science-immersive,www.imda.gov.sg
 data science,29,Data Science Workbench (CDSW) | Cloudera,https://www.cloudera.com/products/data-science-and-engineering/data-science-workbench.html,www.cloudera.com
@@ -448,7 +448,7 @@ data science,52,Data Science | Amazon.jobs,https://www.amazon.jobs/en/job_catego
 data science,53,Data Science | Graduates - BASF.com,https://www.basf.com/global/en/careers/graduates/data-science.html,www.basf.com
 data science,54,What is Data Science? | Thinkful,https://www.thinkful.com/blog/what-is-data-science/,www.thinkful.com
 data science,55,What is data science? - Definition from WhatIs.com,https://searchenterpriseai.techtarget.com/definition/data-science,searchenterpriseai.techtarget.com
-data science,56,"9 Must-have skills you need to become a Data Scientist, updated",https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html,www.kdnuggets.com
+data science,56,9 Must-have skills you need to become a Data Scientist, updated,https://www.kdnuggets.com/2018/05/simplilearn-9-must-have-skills-data-scientist.html,www.kdnuggets.com
 data science,57,Learn Data Science ¯ Data Science Dojo,https://datasciencedojo.com/,datasciencedojo.com
 data science,58,Data science - Tech in Asia,https://www.techinasia.com/category/data-science,www.techinasia.com
 data science,59,MicroMasters? program in Statistics and Data Science - MITx ...,https://micromasters.mit.edu/ds/,micromasters.mit.edu
@@ -463,31 +463,31 @@ data science,67,Data Science - Facebook Research,https://research.fb.com/categor
 data science,68,14 data scientists you should follow on Twitter | TechBeacon,https://techbeacon.com/enterprise-it/14-data-scientists-you-should-follow-twitter,techbeacon.com
 data science,69,11 Data Science Careers That Are Shaping the Future,https://www.northeastern.edu/graduate/blog/data-science-careers-shaping-our-future/,www.northeastern.edu
 data science,70,HTX | Data Science & AI,https://www.htx.gov.sg/expertise/our-expertise/data-science-ai,www.htx.gov.sg
-data science,71,"Data science Jobs in Singapore, Job Vacancies | JobStreet ...",https://www.jobstreet.com.sg/en/job-search/data-science-jobs/,www.jobstreet.com.sg
+data science,71,Data science Jobs in Singapore, Job Vacancies | JobStreet ...,https://www.jobstreet.com.sg/en/job-search/data-science-jobs/,www.jobstreet.com.sg
 data science,72,Master of Science Data Science and Business Analytics - MDIS,https://www.mdis.edu.sg/master-of-science-data-science-and-business-analytics,www.mdis.edu.sg
 data science,73,Team Data | Grab Careers,https://grab.careers/team-data/,grab.careers
 data science,74,Machine Learning - Data Scientist Path - AWS,https://aws.amazon.com/training/learning-paths/machine-learning/data-scientist/,aws.amazon.com
 data science,75,Data Science and Analytics Skills Shortage: Equipping the ...,https://www.apec.org/Publications/2017/11/Data-Science-and-Analytics-Skills-Shortage,www.apec.org
 data science,76,Bachelor of Science in Data Science and Artificial Intelligence ...,https://scse.ntu.edu.sg/Programmes/CurrentStudents/Undergraduate/Pages/DSAI.aspx,scse.ntu.edu.sg
 data science,77,Data Science Courses - Singapore,https://www.kaplan.com.sg/university/data-science-courses/,www.kaplan.com.sg
-data science,78,"DataScience SG (Singapore, Singapore) | Meetup",https://www.meetup.com/DataScience-SG-Singapore/,www.meetup.com
+data science,78,DataScience SG (Singapore, Singapore) | Meetup,https://www.meetup.com/DataScience-SG-Singapore/,www.meetup.com
 data science,79,Laptops and Desktops for Data Science and Analysis - Z ...,https://www8.hp.com/sg/en/workstations/industries/data-science.html,www8.hp.com
 data science,80,Data Science Articles and Whitepapers | Data Science Awards ...,https://datascience.foundation/,datascience.foundation
-data science,81,"Data science: The next frontier , Parenting & Education News ...",https://www.straitstimes.com/singapore/education/data-science-the-next-frontier,www.straitstimes.com
+data science,81,Data science: The next frontier , Parenting & Education News ...,https://www.straitstimes.com/singapore/education/data-science-the-next-frontier,www.straitstimes.com
 data science,82,Data Science | University of London,https://london.ac.uk/courses/data-science-msc,london.ac.uk
 data science,83,Applying Data Science for Real-World Impact | Johnson ...,https://www.careers.jnj.com/data-science,www.careers.jnj.com
 data science,84,Data Science Course Singapore| Data Analytics | Azure ...,https://www.comat.com.sg/courses/data-science/,www.comat.com.sg
 data science,85,Data Science Course - Cognitive Class,https://cognitiveclass.ai/courses/data-science-101,cognitiveclass.ai
 data science,86,Home - The Data Science Institute at Columbia University,https://datascience.columbia.edu/,datascience.columbia.edu
 data science,87,Data Science - MATLAB & Simulink - MathWorks,https://www.mathworks.com/solutions/data-science.html,www.mathworks.com
-data science,88,"Data Prep, Model ... - Dataiku DSS | Your Path to Enterprise AI",https://www.dataiku.com/product/,www.dataiku.com
+data science,88,Data Prep, Model ... - Dataiku DSS | Your Path to Enterprise AI,https://www.dataiku.com/product/,www.dataiku.com
 data science,89,Human Data Science - IQVIA - IQVIA.com,https://www.iqvia.com/insights/human-data-science,www.iqvia.com
 data science,90,DataScience SG,https://datascience.sg/,datascience.sg
 data science,91,Welcome to SuperDataScience - Big Data | Analytics Careers ...,https://www.superdatascience.com/,www.superdatascience.com
 data science,92,Python Data Science ? Real Python,https://realpython.com/tutorials/data-science/,realpython.com
 data science,93,Data Science | Academics | WPI - Worcester Polytechnic Institute,https://www.wpi.edu/academics/departments/data-science,www.wpi.edu
 data science,94,ossu/data-science: Path to a free self-taught ... - GitHub,https://github.com/ossu/data-science,github.com
-data science,95,"How to Learn Statistics for Data Science, The Self-Starter Way",https://elitedatascience.com/learn-statistics-for-data-science,elitedatascience.com
+data science,95,How to Learn Statistics for Data Science, The Self-Starter Way,https://elitedatascience.com/learn-statistics-for-data-science,elitedatascience.com
 data science,96,Data Science Certifications | Big Data Certification Programs ...,https://www.dasca.org/,www.dasca.org
 data science,97,Snowflake for Data Science | Snowflake Workloads,https://www.snowflake.com/workloads/data-science/,www.snowflake.com
 data science,98,Data Science Certification - Post Graduate Diploma in Data ...,https://www.upgrad.com/data-science-pgd-iiitb/,www.upgrad.com
@@ -497,29 +497,29 @@ donald trump,3,Donald J. Trump for President: Home,https://www.donaldjtrump.com/
 donald trump,4,Donald J. Trump | The White House,https://www.whitehouse.gov/people/donald-j-trump/,www.whitehouse.gov
 donald trump,5,Donald Trump | US news | The Guardian,https://www.theguardian.com/us-news/donaldtrump,www.theguardian.com
 donald trump,6,Donald Trump - CNBC - CNBC.com,https://www.cnbc.com/donald-trump/,www.cnbc.com
-donald trump,7,"Donald Trump 2020: Polls, news and on the issues - CNN.com",https://edition.cnn.com/election/2020/candidate/trump,edition.cnn.com
+donald trump,7,Donald Trump 2020: Polls, news and on the issues - CNN.com,https://edition.cnn.com/election/2020/candidate/trump,edition.cnn.com
 donald trump,8,Donald Trump - CNN.com,https://edition.cnn.com/specials/politics/president-donald-trump-45,edition.cnn.com
 donald trump,9,Donald Trump | South China Morning Post,https://www.scmp.com/topics/donald-trump,www.scmp.com
 donald trump,10,Donald J. Trump - Home | Facebook,https://www.facebook.com/DonaldTrump/,www.facebook.com
 donald trump,11,Donald J Trump - YouTube,https://www.youtube.com/channel/UCAql2DyGU2un1Ei2nMYsqOA,www.youtube.com
 donald trump,12,Donald John Trump | TheHill,https://thehill.com/people/donald-trump,thehill.com
 donald trump,13,Donald Trump News ? the latest from Al Jazeera,https://www.aljazeera.com/topics/people/donald-trump.html,www.aljazeera.com
-donald trump,14,"Donald Trump - Impeachment, Age & Wife - Biography",https://www.biography.com/us-president/donald-trump,www.biography.com
+donald trump,14,Donald Trump - Impeachment, Age & Wife - Biography,https://www.biography.com/us-president/donald-trump,www.biography.com
 donald trump,15,Donald Trump - The New York Times,https://www.nytimes.com/topic/person/donald-trump,www.nytimes.com
-donald trump,16,"Worst place, worst time: Trump faces virus spike in Midwest",https://apnews.com/article/election-2020-joe-biden-donald-trump-pandemics-virus-outbreak-dce5ffaf79f0805a122240b7477d04ff,apnews.com
+donald trump,16,Worst place, worst time: Trump faces virus spike in Midwest,https://apnews.com/article/election-2020-joe-biden-donald-trump-pandemics-virus-outbreak-dce5ffaf79f0805a122240b7477d04ff,apnews.com
 donald trump,17,Donald Trump - Associated Press,https://apnews.com/hub/donald-trump,apnews.com
-donald trump,18,"Donald Trump: The Latest News, Analysis, and Opinion | The ...",https://www.newyorker.com/tag/donald-trump,www.newyorker.com
+donald trump,18,Donald Trump: The Latest News, Analysis, and Opinion | The ...,https://www.newyorker.com/tag/donald-trump,www.newyorker.com
 donald trump,19,Donald Trump - BBC News - BBC.com,https://www.bbc.com/news/topics/cp7r8vgl2lgt/donald-trump,www.bbc.com
 donald trump,20,Donald Trump - The Independent,https://www.independent.co.uk/topic/donald-trump,www.independent.co.uk
-donald trump,21,"Donald Trump: Donald Trump news, Donald Trump latest ...",https://economictimes.indiatimes.com/news/donald-trump,economictimes.indiatimes.com
+donald trump,21,Donald Trump: Donald Trump news, Donald Trump latest ...,https://economictimes.indiatimes.com/news/donald-trump,economictimes.indiatimes.com
 donald trump,22,Donald Trump - Latest News and Top Stories | NBC News,https://www.nbcnews.com/politics/donald-trump,www.nbcnews.com
 donald trump,23,All the president's debts: to whom Donald Trump owes money ...,https://www.ft.com/content/448c69a6-18f3-4fa0-a3ad-50e8ce553e1e,www.ft.com
 donald trump,24,Donald Trump's path to victory runs through Pennsylvania ...,https://www.ft.com/content/b592d770-86c9-469f-a174-ce180056c24e,www.ft.com
 donald trump,25,Donald Trump - Forbes,https://www.forbes.com/profile/donald-trump/,www.forbes.com
-donald trump,26,"Donald Trump: Latest News, Top Stories & Analysis - POLITICO",https://www.politico.com/news/donald-trump,www.politico.com
+donald trump,26,Donald Trump: Latest News, Top Stories & Analysis - POLITICO,https://www.politico.com/news/donald-trump,www.politico.com
 donald trump,27,The Trump Organization | Luxury Real Estate Portfolio,https://www.trump.com/,www.trump.com
 donald trump,28,US election polls tracker: Will Donald Trump or Joe Biden win ...,https://www.telegraph.co.uk/news/2020/10/27/us-election-polls-2020-live-tracker-who-win-biden-trump/,www.telegraph.co.uk
-donald trump,29,"Donald Trump ? News, Research and Analysis ? The ...",https://theconversation.com/global/topics/donald-trump-10206,theconversation.com
+donald trump,29,Donald Trump ? News, Research and Analysis ? The ...,https://theconversation.com/global/topics/donald-trump-10206,theconversation.com
 donald trump,30,Donald Trump | World | Toronto Star,https://www.thestar.com/news/donald-trump.html,www.thestar.com
 donald trump,31,Donald Trump | Fox News,https://www.foxnews.com/category/person/donald-trump,www.foxnews.com
 donald trump,32,How Popular Is Donald Trump? | FiveThirtyEight,https://projects.fivethirtyeight.com/trump-approval-ratings/,projects.fivethirtyeight.com
@@ -535,8 +535,8 @@ donald trump,41,How Donald Trump's Presidency Has Changed The Media ...,https://
 donald trump,42,President Donald Trump leaves a trail of foreign policy fiction,https://www.usatoday.com/story/opinion/todaysdebate/2020/10/26/president-donald-trump-leaves-trail-foreign-policy-fiction-editorials-debates/5941690002/,www.usatoday.com
 donald trump,43,Donald Trump - HuffPost,https://www.huffpost.com/news/topic/donald-trump,www.huffpost.com
 donald trump,44,Donald Trump | Pew Research Center,https://www.pewresearch.org/topics/donald-trump/,www.pewresearch.org
-donald trump,45,"Donald Trump: news, videos, reports and analysis - France 24",https://www.france24.com/en/tag/donald-trump/,www.france24.com
-donald trump,46,"Donald Trump: Latest News, Photos, Videos on Donald Trump ...",https://www.ndtv.com/topic/donald-trump,www.ndtv.com
+donald trump,45,Donald Trump: news, videos, reports and analysis - France 24,https://www.france24.com/en/tag/donald-trump/,www.france24.com
+donald trump,46,Donald Trump: Latest News, Photos, Videos on Donald Trump ...,https://www.ndtv.com/topic/donald-trump,www.ndtv.com
 donald trump,47,Putin rejects Donald Trump's criticism of Biden ... - Reuters,https://www.reuters.com/article/us-usa-election-putin-idUSKBN27A0TA,www.reuters.com
 donald trump,48,Donald Trump | Biography & Facts | Britannica,https://www.britannica.com/biography/Donald-Trump,www.britannica.com
 donald trump,49,Donald Trump - PolitiFact,https://www.politifact.com/personalities/donald-trump/,www.politifact.com
@@ -547,7 +547,7 @@ donald trump,53,How Trump damaged science ? and why it could take ...,https://ww
 donald trump,54,Cartoons on President Donald Trump | US News,https://www.usnews.com/cartoons/donald-trump,www.usnews.com
 donald trump,55,Donald Trump - Latest news & analysis on the US President ...,https://www.mirror.co.uk/all-about/donald-trump,www.mirror.co.uk
 donald trump,56,Why Donald Trump releasing his '60 Minutes' interview is a ...,https://www.azcentral.com/story/entertainment/media/2020/10/22/donald-trump-60-minutes-interview/3730309001/,www.azcentral.com
-donald trump,57,"Donald Trump | Latest News, Photos & Videos | WIRED",https://www.wired.com/tag/donald-trump/,www.wired.com
+donald trump,57,Donald Trump | Latest News, Photos & Videos | WIRED,https://www.wired.com/tag/donald-trump/,www.wired.com
 donald trump,58,Presidential Approval Ratings -- Donald Trump - Gallup Poll,https://news.gallup.com/poll/203198/presidential-approval-ratings-donald-trump.aspx,news.gallup.com
 donald trump,59,Donald Trump | Yahoo Entertainment,https://www.yahoo.com/entertainment/tagged/donald-trump/,www.yahoo.com
 donald trump,60,Donald Trump - Scholastic Magazines,https://classroommagazines.scholastic.com/election/meet-the-candidates/donald-trump.html,classroommagazines.scholastic.com
@@ -558,7 +558,7 @@ donald trump,64,Donald Trump - CNET,https://www.cnet.com/tags/donald-trump/,www.
 donald trump,65,Donald Trump - The Latest News from the UK and Around the ...,https://news.sky.com/topic/donald-trump-5711,news.sky.com
 donald trump,66,The 60 Minutes interview that President Trump cut short - CBS ...,https://www.cbsnews.com/news/president-trump-60-minutes-interview-lesley-stahl-2020-10-25/,www.cbsnews.com
 donald trump,67,How Donald Trump and Xi Jinping changed the US-China ...,https://www.abc.net.au/news/2020-10-27/donald-trump-xi-jinping-changed-relationship-us-china-forever/12765786,www.abc.net.au
-donald trump,68,"Summary data for Donald Trump, 2020 cycle ? OpenSecrets",https://www.opensecrets.org/2020-presidential-race/donald-trump/candidate?id=N00023864,www.opensecrets.org
+donald trump,68,Summary data for Donald Trump, 2020 cycle ? OpenSecrets,https://www.opensecrets.org/2020-presidential-race/donald-trump/candidate?id=N00023864,www.opensecrets.org
 donald trump,69,Donald Trump - Haaretz Com,https://www.haaretz.com/misc/tags/TAG-donald-trump-1.5599319,www.haaretz.com
 donald trump,70,Donald Trump's Twitter hacked after researcher guessed ...,https://www.securitymagazine.com/articles/93730-donald-trumps-twitter-hacked-after-researcher-guessed-password,www.securitymagazine.com
 donald trump,71,Donald Trump Archives - FactCheck.org,https://www.factcheck.org/person/donald-trump/,www.factcheck.org
@@ -577,7 +577,7 @@ donald trump,83,Donald Trump | Complex,https://www.complex.com/tag/donald-trump,
 donald trump,84,What has four years of President Donald Trump meant for ...,https://www.tampabay.com/news/environment/2020/10/26/what-has-four-years-of-president-donald-trump-meant-for-floridas-environment/,www.tampabay.com
 donald trump,85,Update: Here's what is known about Trump's COVID-19 ...,https://www.sciencemag.org/news/2020/10/heres-what-known-about-president-donald-trump-s-covid-19-treatment,www.sciencemag.org
 donald trump,86,Bloomberg Billionaires Index - Donald Trump,https://www.bloomberg.com/billionaires/profiles/donald-j-trump/,www.bloomberg.com
-donald trump,87,"Donald Trump News, Pictures and Policy | Express.co.uk",https://www.express.co.uk/latest/donald-trump,www.express.co.uk
+donald trump,87,Donald Trump News, Pictures and Policy | Express.co.uk,https://www.express.co.uk/latest/donald-trump,www.express.co.uk
 donald trump,88,What Is Donald Trump's Actual Net Worth? - Investopedia,https://www.investopedia.com/updates/donald-trump-net-worth/,www.investopedia.com
 donald trump,89,Boston Herald endorses Donald Trump for president - WCVB-TV,https://www.wcvb.com/article/boston-herald-endorses-donald-trump-for-president/34491423,www.wcvb.com
 donald trump,90,Trump's conservative Christian support flows from a specific ...,https://www.cbc.ca/news/opinion/opinion-christian-conservative-support-donald-trump-1.5776988,www.cbc.ca
@@ -590,11 +590,11 @@ donald trump,96,Donald J. Trump | C-SPAN.org,https://www.c-span.org/person/?dona
 donald trump,97,President Donald Trump | Psychology Today,https://www.psychologytoday.com/us/basics/president-donald-trump,www.psychologytoday.com
 fishing sleeping,1,Do fish sleep? - NOAA's National Ocean Service,https://oceanservice.noaa.gov/facts/fish-sleep.html,oceanservice.noaa.gov
 fishing sleeping,2,Carp Fishing Sleeping Bags | Bedchair Covers | Angling Direct,https://www.anglingdirect.co.uk/carp-fishing-tackle/sleeping-bags-pillows,www.anglingdirect.co.uk
-fishing sleeping,3,"Angling Sleeping Bag And Pillow, Fishing Sleeping Bags ...",https://www.total-fishing-tackle.com/carp/camping/sleeping-bags-pillows-and-accessories,www.total-fishing-tackle.com
+fishing sleeping,3,Angling Sleeping Bag And Pillow, Fishing Sleeping Bags ...,https://www.total-fishing-tackle.com/carp/camping/sleeping-bags-pillows-and-accessories,www.total-fishing-tackle.com
 fishing sleeping,4,Curious Kids: how do fish sleep? - The Conversation,https://theconversation.com/curious-kids-how-do-fish-sleep-126018,theconversation.com
 fishing sleeping,5,Carp Fishing Sleeping Bags & Pillows - Tackle UK,https://www.tackleuk.co.uk/Shop/CarpFishingSleepingBagsPillows,www.tackleuk.co.uk
 fishing sleeping,6,Fishing Sleeping Bags - Amazon.co.uk,https://www.amazon.co.uk/Fishing-Sleeping-Bags/s?k=Fishing+Sleeping+Bags,www.amazon.co.uk
-fishing sleeping,7,"Carp Fishing Sleeping Bags, Sleeping Bags, Bedchair Covers ...",https://johnsonrosstackle.co.uk/46-sleeping-bags,johnsonrosstackle.co.uk
+fishing sleeping,7,Carp Fishing Sleeping Bags, Sleeping Bags, Bedchair Covers ...,https://johnsonrosstackle.co.uk/46-sleeping-bags,johnsonrosstackle.co.uk
 fishing sleeping,8,Shop Fishing Sleeping Bags for Sale | GO Outdoors,https://www.gooutdoors.co.uk/fishing/fishing-sleeping-bags/,www.gooutdoors.co.uk
 fishing sleeping,9,Sleeping Bags | Total Fishing Gear,https://www.totalfishinggear.co.uk/carp/sleeping-bags,www.totalfishinggear.co.uk
 fishing sleeping,10,Sleep in fish - Wikipedia,https://en.wikipedia.org/wiki/Sleep_in_fish,en.wikipedia.org
@@ -609,7 +609,7 @@ fishing sleeping,18,Sleeping Bags & Pillows | CARP SPECIALIST | Future Fishing,h
 fishing sleeping,19,Sleeping Bags - Bedroom - Camping Gear - Hunting & Fishing,https://www.huntingandfishing.co.nz/camping-gear/bedroom/sleeping-bags.html,www.huntingandfishing.co.nz
 fishing sleeping,20,Mountain Warehouse Sutherland Sleeping Bag - Fishing ...,https://www.amazon.ca/Mountain-Warehouse-Sutherland-Sleeping-Bag/dp/B00NYRFGPA,www.amazon.ca
 fishing sleeping,21,How Do Fish Sleep? | Sleep Advisor,https://www.sleepadvisor.org/do-fish-sleep/,www.sleepadvisor.org
-fishing sleeping,22,"Fox Evo Tec ERS2 Sleeping Bag 98X218 CM, Angler Fishing ...",https://www.amazon.de/-/en/ERS2-Sleeping-98X218-CM-Angler-Fishing-Sleeping/dp/B01GVJGFNY,www.amazon.de
+fishing sleeping,22,Fox Evo Tec ERS2 Sleeping Bag 98X218 CM, Angler Fishing ...,https://www.amazon.de/-/en/ERS2-Sleeping-98X218-CM-Angler-Fishing-Sleeping/dp/B01GVJGFNY,www.amazon.de
 fishing sleeping,23,Fishing Sleeping Mat Nautical Hobby Theme Baits ... - Amazon.com,https://www.amazon.com/Fishing-Sleeping-Nautical-Pillow-Toddler/dp/B0875J78R3,www.amazon.com
 fishing sleeping,24,370 Fishing Sleep Photos and Premium High Res Pictures ...,https://www.gettyimages.com/photos/fishing-sleep,www.gettyimages.com
 fishing sleeping,25,aden + anais TOG 1 Sleeping Bag - Gone Fishing – Natural ...,https://www.naturalbabyshower.co.uk/products/aden-anais-tog-1-sleeping-bag-gone-fishing,www.naturalbabyshower.co.uk
@@ -620,12 +620,12 @@ fishing sleeping,29,Eating fishing sleeping T-shirt by Tej0711 | Redbubble,https
 fishing sleeping,30,Sleeping Bags - KOALA PRODUCTS FISHING TACKLE,https://www.koalaproducts.co.uk/sleeping-bags,www.koalaproducts.co.uk
 fishing sleeping,31,SH/Summit/650D/Camping/Hiking/Fishing/Sleeping Bag - Gmarket,http://global.gmarket.co.kr/item?goodsCode=854776820,global.gmarket.co.kr
 fishing sleeping,32,Sleeping Giant State Park--Fishing - CT.gov,https://portal.ct.gov/DEEP/State-Parks/Parks/Sleeping-Giant-State-Park/Fishing,portal.ct.gov
-fishing sleeping,33,"fishing sleeping bags – Greüzi bag sleeping bags – tagged ""bis ...",https://en.gz-bag.de/collections/schlafsack-beratung-schlafsack-einsatzbereich-angelschlafsack/bis-175cm,en.gz-bag.de
+fishing sleeping,33,fishing sleeping bags – Greüzi bag sleeping bags – tagged "bis ...,https://en.gz-bag.de/collections/schlafsack-beratung-schlafsack-einsatzbereich-angelschlafsack/bis-175cm,en.gz-bag.de
 fishing sleeping,34,Fishing - Sleeping Bear Dunes National Lakeshore (U.S. ...,https://www.nps.gov/slbe/planyourvisit/fishing.htm,www.nps.gov
 fishing sleeping,35,Four Seasons Carp Fishing Sleeping Bag | Carp Zone,https://www.carp-zone.co.uk/carpzone-sleeping-bags-es40066.html,www.carp-zone.co.uk
-fishing sleeping,36,"Fishing Sleeping Bags, Pillows & Thermal Covers | Europe ...",https://www.harrissportsmail.com/eur/carp-fishing-tackle/sleeping-equipment-60,www.harrissportsmail.com
+fishing sleeping,36,Fishing Sleeping Bags, Pillows & Thermal Covers | Europe ...,https://www.harrissportsmail.com/eur/carp-fishing-tackle/sleeping-equipment-60,www.harrissportsmail.com
 fishing sleeping,37,Sleeping bags - FISHING-MART,https://www.fishing-mart.com.pl/en4/tents-umbrellas-beds-chairs-sleeping-bags/g/421,www.fishing-mart.com.pl
-fishing sleeping,38,"Carp Fishing Sleeping Bag, Prologic Pro Sleep | North East ...",https://www.northeasttackle.co.uk/carp-fishing-c29/carp-sleeping-bags-c166/prologic-pro-sleep-carp-fishing-sleeping-bag-p1486,www.northeasttackle.co.uk
+fishing sleeping,38,Carp Fishing Sleeping Bag, Prologic Pro Sleep | North East ...,https://www.northeasttackle.co.uk/carp-fishing-c29/carp-sleeping-bags-c166/prologic-pro-sleep-carp-fishing-sleeping-bag-p1486,www.northeasttackle.co.uk
 fishing sleeping,39,Sleeping Bags - Check out the full Fox carp fishing product ...,https://www.foxint.com/home/products/sleeping-bags,www.foxint.com
 fishing sleeping,40,Sleeping Bags | Gerry's Fishing,https://www.gerrysfishing.com/product-category/carp-fishing/sleeping-bags/,www.gerrysfishing.com
 fishing sleeping,41,Sleeping bag for Sale | Gumtree,https://www.gumtree.com/other-fishing-equipment/uk/sleeping+bag,www.gumtree.com
@@ -636,7 +636,7 @@ fishing sleeping,45,Fishing Sleeping Bags & Co. at low prices | Askari Fishing .
 fishing sleeping,46,Sänger Anaconda Magist Fishing sleeping bag at low prices ...,https://www.askari-hunting-shop.com/saenger-anaconda-magist-fishing-sleeping-bag_0199616.html,www.askari-hunting-shop.com
 fishing sleeping,47,Buy Fishing Sleeping Bags | Olive & Camo Coloured,https://www.sleepingbagsoutlet.co.uk/fishing/,www.sleepingbagsoutlet.co.uk
 fishing sleeping,48,Curious Kids: How do fish sleep? - The Conversation - ABC ...,https://education.abc.net.au/newsandarticles/blog/-/b/3382083/curious-kids-how-do-fish-sleep,education.abc.net.au
-fishing sleeping,49,"Sleeping Bags, Carp Fishing Gear | JRC®",http://www.jrc-fishing.co.uk/jrc-sleeping-bags/,www.jrc-fishing.co.uk
+fishing sleeping,49,Sleeping Bags, Carp Fishing Gear | JRC®,http://www.jrc-fishing.co.uk/jrc-sleeping-bags/,www.jrc-fishing.co.uk
 fishing sleeping,50,Outdoor Folding Chair Portable Fishing Sleeping Chair Stool ...,https://shopee.sg/Outdoor-Folding-Chair-Portable-Fishing-Sleeping-Chair-Stool-Leisure-Chair-i.258971120.5433605500,shopee.sg
 fishing sleeping,51,Cyprinus Carpstar Deep Snooze 5 Season Carp Fishing Sleeping Bag,http://actrion.nl/427963/Carpstar-Deep-Snooze-5/,actrion.nl
 fishing sleeping,52,Forge Carp Fishing Tackle Equipment Sleeping Bags Thermal ...,https://www.forgetackledirect.com/collections/sleeping-bags,www.forgetackledirect.com
@@ -648,20 +648,20 @@ fishing sleeping,57,Sleeping Bag - Imperial Fishing,https://www.imperial-fishing
 fishing sleeping,58,Coleman Mudgee Sleeping Bag - Spot On Fishing Tackle,https://www.spotonfishing.com.au/coleman-mudgee-sleeping-bag.html,www.spotonfishing.com.au
 fishing sleeping,59,Sutherland Fishing Style Sleeping Bag | Mountain Warehouse ...,https://www.mountainwarehouse.com/camping/sleeping-bags/3-4-season-sleeping-bags/sutherland-fleece-lined-sleeping-bag-p11483.aspx/,www.mountainwarehouse.com
 fishing sleeping,60,Carp Fishing Sleeping Bags | Bristol Angling Centre,https://www.bristolangling.com/tackle/sleeping-bags.html,www.bristolangling.com
-fishing sleeping,61,"Sleeping And Fishing | Sleep, Sleep tight, Sweet dreams",https://www.pinterest.com/pin/73746512619322584/,www.pinterest.com
+fishing sleeping,61,Sleeping And Fishing | Sleep, Sleep tight, Sweet dreams,https://www.pinterest.com/pin/73746512619322584/,www.pinterest.com
 fishing sleeping,62,Bivvys Shelters & Sleeping Bags - Fishing - SM Group (Europe),https://www.smgeurope.com/fishing/bivvys-sleeping-bags.html,www.smgeurope.com
 fishing sleeping,63,Buy Carp Fishing Sleeping Bags | Free P&P - Fishing Bait World,https://www.fishingbaitworld.co.uk/c/tackle/fishing-sleeping-bags-covers,www.fishingbaitworld.co.uk
 fishing sleeping,64,NGT 5 Seasons Warm Sleeping Bag Carp Fis- Buy Online in ...,https://malta.desertcart.com/products/68146291-ngt-5-seasons-warm-sleeping-bag-carp-fishing-high-tog-rating-bag-camping-hunting,malta.desertcart.com
 fishing sleeping,65,Chub Vantage 5 Season Carp Fishing Sleeping Bag 100cm ...,https://angling-centre.co.uk/carp-specimen/sleeping-bags-pillows/chub-vantage-5-season-carp-fishing-sleeping-bag-100cm-extra-wide.html,angling-centre.co.uk
-fishing sleeping,66,"Diem Carp Fishing Sleeping-bags, , Beds-and-chairs from ...",https://www.bobcotackle.co.uk/carp/beds-and-chairs/diem/sleeping-bags,www.bobcotackle.co.uk
+fishing sleeping,66,Diem Carp Fishing Sleeping-bags, , Beds-and-chairs from ...,https://www.bobcotackle.co.uk/carp/beds-and-chairs/diem/sleeping-bags,www.bobcotackle.co.uk
 fishing sleeping,67,Trakker New Big Snooze Plus Compact Carp Fishing ...,https://www.desertcart.co.zw/products/63710451-trakker-new-big-snooze-plus-compact-carp-fishing-sleeping-bag,www.desertcart.co.zw
 fishing sleeping,68,Outdoor Folding Recliner Portable Fishing Sleeping Chair ...,https://shopee.com.my/Outdoor-Folding-Recliner-Portable-Fishing-Sleeping-Chair-Relax-Chair-i.173250465.4325800509,shopee.com.my
 fishing sleeping,69,Sleeping Bags | Fishing Tackle | Wychwood Carp,https://www.wychwoodcarp.co.uk/products/bank-life/sleeping-bags,www.wychwoodcarp.co.uk
 fishing sleeping,70,Sport Zubehör Zubehör Sonstige Cyprinus Trooper 4 Season ...,http://www.innoafrica.co.tz/Sleeping-Bag-Carpology-Rig-Guide-Zubeh%C3%B6r/295185.php,www.innoafrica.co.tz
-fishing sleeping,71,"Fish sleep just like humans, suggesting we learnt how to nod ...",https://www.independent.co.uk/news/science/sleep-zebrafish-human-ancestors-rem-science-evolution-a8999211.html,www.independent.co.uk
+fishing sleeping,71,Fish sleep just like humans, suggesting we learnt how to nod ...,https://www.independent.co.uk/news/science/sleep-zebrafish-human-ancestors-rem-science-evolution-a8999211.html,www.independent.co.uk
 fishing sleeping,72,Total Fishing Tackle - PRE-ORDER RidgeMonkey Junior ...,https://www.facebook.com/totalfishingtackle/videos/pre-order-ridgemonkey-junior-bunk-sleep-system/607693746600146/,www.facebook.com
 fishing sleeping,73,Best Bedchair Sleep Systems – Top 9 Carp Fishing Bedchairs,https://carphideout.co.uk/best-bedchair-sleep-systems/,carphideout.co.uk
-fishing sleeping,74,"Sleeping Bags , Bed Covers,duvet,Mattress Sheets,Pillows ...",https://www.c2kft.co.uk/product-category/carp-fishing/bedchairs-sleep-systems-sleeping-bags-bed-covers-mattress-sheets-pillows/sleeping-bags-bed-covers-duvet-mattress-sheets-pillows/,www.c2kft.co.uk
+fishing sleeping,74,Sleeping Bags , Bed Covers,duvet,Mattress Sheets,Pillows ...,https://www.c2kft.co.uk/product-category/carp-fishing/bedchairs-sleep-systems-sleeping-bags-bed-covers-mattress-sheets-pillows/sleeping-bags-bed-covers-duvet-mattress-sheets-pillows/,www.c2kft.co.uk
 fishing sleeping,75,Spending the Night Offshore - Texas Saltwater Fishing ...,https://www.texassaltwaterfishingmagazine.com/fishing/features/joe-richard/spending-night-offshore,www.texassaltwaterfishingmagazine.com
 fishing sleeping,76,China Folding Outdoor Camping Hiking Tent off Ground ...,https://camford.en.made-in-china.com/product/cCsEPbVMlOhA/China-Folding-Outdoor-Camping-Hiking-Tent-off-Ground-Oversize-Cot-for-Camp-Fishing-Sleeping.html,camford.en.made-in-china.com
 fishing sleeping,77,Do fish sleep? - Spotmydive,https://www.spotmydive.com/en/marine-life/do-fish-sleep/,www.spotmydive.com
@@ -671,7 +671,7 @@ fishing sleeping,80,Sleeping Bags - Hull Angling Centre,https://www.hullanglingc
 fishing sleeping,81,Fish Pulls Sleeping Fisherman Into a Lake - Wide Open Spaces,https://www.wideopenspaces.com/pulled-dock-sleeping-fisherman-gets-wak-up-call-big-fish-video/,www.wideopenspaces.com
 fishing sleeping,82,Night Fishing or Sleep Fishing? – California Outdoors Q&A,https://californiaoutdoors.wordpress.com/2015/06/25/night-fishing-or-sleep-fishing/,californiaoutdoors.wordpress.com
 fishing sleeping,83,Abode Airtexx™ 5 Season Hollow Fill Twin- Buy Online in ...,https://www.desertcart.com.kw/products/54991594-abode-airtexx%E2%84%A2-5-season-hollow-fill-twin-shell-deep-sleep-carp-fishing-sleeping-bag,www.desertcart.com.kw
-fishing sleeping,84,"Debunking myth of the sleepy fishing village, Singapore News ...",https://www.straitstimes.com/singapore/debunking-myth-of-the-sleepy-fishing-village,www.straitstimes.com
+fishing sleeping,84,Debunking myth of the sleepy fishing village, Singapore News ...,https://www.straitstimes.com/singapore/debunking-myth-of-the-sleepy-fishing-village,www.straitstimes.com
 fishing sleeping,85,Sleeping Bags & Pillows - Kent Tackle: Fishing Tackle & Bait ...,https://www.kenttackle.com/sleeping-bags-pillows/,www.kenttackle.com
 fishing sleeping,86,Sleeping bags - Fishdeal,https://fishdeal.co.uk/t/fishing-sleeping-bags/,fishdeal.co.uk
 fishing sleeping,87,Anglerfish | National Geographic,https://www.nationalgeographic.com/animals/fish/group/anglerfish/,www.nationalgeographic.com
@@ -684,15 +684,15 @@ fishing sleeping,93,Carp Match/Pleasure Specialist Fishing Sleeping Bags – JP 
 fishing sleeping,94,Death threat angler warned he'll be sleeping with the fishes ...,https://www.telegraph.co.uk/news/2016/09/22/angler-gets-death-threats-after-landing-britains-biggest-carp/,www.telegraph.co.uk
 fishing sleeping,95,Fishing - National Elk Refuge - U.S. Fish and Wildlife Service,https://www.fws.gov/nwrs/threecolumn.aspx?id=2147516841,www.fws.gov
 fishing sleeping,96,trakker big snooze+ fishing sleeping bag in W13 Ealing for ...,https://www.shpock.com/en-gb/i/WmepVKHD0XavIiZR/trakker-big-snooze-fishing-sleeping-bag,www.shpock.com
-fishing sleeping,97,"Do tuna sleep? And if so, how? - Planet tuna",http://planettuna.com/en/dotunasleep/,planettuna.com
-internship,1,"INTERNSG - Singapore Internships, Traineeships, Freelance ...",https://www.internsg.com/,www.internsg.com
-internship,2,Internship Jobs in Singapore | Glassdoor.sg,"https://www.glassdoor.sg/Job/singapore-internship-jobs-SRCH_IL.0,9_IC3235921_KO10,20.htm",www.glassdoor.sg
+fishing sleeping,97,Do tuna sleep? And if so, how? - Planet tuna,http://planettuna.com/en/dotunasleep/,planettuna.com
+internship,1,INTERNSG - Singapore Internships, Traineeships, Freelance ...,https://www.internsg.com/,www.internsg.com
+internship,2,Internship Jobs in Singapore | Glassdoor.sg,https://www.glassdoor.sg/Job/singapore-internship-jobs-SRCH_IL.0,9_IC3235921_KO10,20.htm,www.glassdoor.sg
 internship,3,Apply as Intern | Careers@Gov,https://www.careers.gov.sg/internships@gov,www.careers.gov.sg
 internship,4,Top Internships in Singapore | Glints,https://glints.com/sg/internship-singapore,glints.com
 internship,5,Internships Jobs in Singapore | JobStreet.com.sg,https://www.jobstreet.com.sg/en/job-search/campus/job-vacancy.php?by=internship,www.jobstreet.com.sg
-internship,6,"Internship Jobs in Singapore, Job Vacancies | JobStreet.com.sg",https://www.jobstreet.com.sg/en/job-search/internship-jobs/,www.jobstreet.com.sg
-internship,7,"1,000+ Intern jobs in Singapore (47 new) - LinkedIn",https://sg.linkedin.com/jobs/intern-jobs,sg.linkedin.com
-internship,8,"Internship Jobs, Employment October 2020 | Indeed.com",https://sg.indeed.com/Internship-jobs,sg.indeed.com
+internship,6,Internship Jobs in Singapore, Job Vacancies | JobStreet.com.sg,https://www.jobstreet.com.sg/en/job-search/internship-jobs/,www.jobstreet.com.sg
+internship,7,1,000+ Intern jobs in Singapore (47 new) - LinkedIn,https://sg.linkedin.com/jobs/intern-jobs,sg.linkedin.com
+internship,8,Internship Jobs, Employment October 2020 | Indeed.com,https://sg.indeed.com/Internship-jobs,sg.indeed.com
 internship,9,Singapore Internships - Absolute Internship,https://absoluteinternship.com/programs/singapore-internships/,absoluteinternship.com
 internship,10,Internship - Wikipedia,https://en.wikipedia.org/wiki/Internship,en.wikipedia.org
 internship,11,Internship in Singapore | AIP International Internship Singapore,https://internsinasia.com/destination/singapore-internship,internsinasia.com
@@ -750,13 +750,13 @@ internship,62,Internships - SATS,https://www.sats.com.sg/careers-and-training/ca
 internship,63,Internship - UOB : United Overseas Bank,http://www.uob.com.sg/careers/early-career/singapore/internship.page?TRILIBIS_EMULATOR_UA=Mozilla%25252F5.0+%252528Windows+NT+6.1%25253B+WOW64%25253B+rv%25253A26.0%252529+Gecko%25252F20100101+Firefox%25252F26.0-1,www.uob.com.sg
 internship,64,Internship Programme - Tan Chin Tuan Foundation,http://tanfoundation.com.sg/education/internship-programme/,tanfoundation.com.sg
 internship,65,INTERNSHIP PROGRAM – HealthServe,https://www.healthserve.org.sg/intern/,www.healthserve.org.sg
-internship,66,"Internships, trainee programs - Careers Société Générale",https://careers.societegenerale.com/en/internships-trainee-programs,careers.societegenerale.com
+internship,66,Internships, trainee programs - Careers Société Générale,https://careers.societegenerale.com/en/internships-trainee-programs,careers.societegenerale.com
 internship,67,Unpaid Internship Impact on the Labor Market - Investopedia,https://www.investopedia.com/articles/economics/12/impact-of-unpaid-internships.asp,www.investopedia.com
 internship,68,Internship - Auditor-General's Office,https://www.ago.gov.sg/careers/internship,www.ago.gov.sg
 internship,69,Internship Programme - Centre for Strategic Futures,https://www.csf.gov.sg/internship-programme/,www.csf.gov.sg
 internship,70,WHO internship programme - WHO,https://www.who.int/careers/internships/en/,www.who.int
 internship,71,Student Internships | Careers at The Ascott Limited,https://www.the-ascott.com/en/ascottlimited/careers/internship.html,www.the-ascott.com
-internship,72,"General Internship - Love, Bonito - Workable for Job Seekers",https://apply.workable.com/lovebonito/j/730DEF4BD8/,apply.workable.com
+internship,72,General Internship - Love, Bonito - Workable for Job Seekers,https://apply.workable.com/lovebonito/j/730DEF4BD8/,apply.workable.com
 internship,73,Graduate and internship programme | Singapore | Eastspring ...,https://www.eastspring.com/sg/careers/graduate-and-internship-programme,www.eastspring.com
 internship,74,Securing internship in Singapore through the use of portals -,https://digitalsenior.sg/securing-internship-in-singapore-through-the-use-of-portals/,digitalsenior.sg
 internship,75,Undergraduate Internship Programme - Ministry of Foreign ...,https://www.mfa.gov.sg/Career/Internships/Undergraduate,www.mfa.gov.sg
@@ -766,7 +766,7 @@ internship,78,The CRÈME Internship | Aegis Organization,https://www.aegisorgani
 internship,79,Internships for College Students | Abbott U.S.,https://www.abbott.com/careers/students/internships.html,www.abbott.com
 internship,80,Careers - Intern | FairPrice,https://www.fairprice.com.sg/careers/content/intern/,www.fairprice.com.sg
 internship,81,Internship Programme | Corporate | Great Eastern Singapore,https://www.greateasternlife.com/sg/en/careers/employee/graduate-programme.html,www.greateasternlife.com
-internship,82,"Jobs, Student Programs & Internships | JPMorgan Chase & Co.",https://careers.jpmorgan.com/global/en/students/programs,careers.jpmorgan.com
+internship,82,Jobs, Student Programs & Internships | JPMorgan Chase & Co.,https://careers.jpmorgan.com/global/en/students/programs,careers.jpmorgan.com
 internship,83,What Is an Internship and How Do You Get One? | The Muse,https://www.themuse.com/advice/what-is-an-internship-definition-advice,www.themuse.com
 internship,84,Internships | PIMCO,https://www.pimco.com.sg/en-sg/our-firm/careers/students/internships,www.pimco.com.sg
 internship,85,Shell Assessed Internship Programme | Shell Global,https://www.shell.com/careers/about-careers-at-shell/assessed-internships.html,www.shell.com
@@ -799,7 +799,7 @@ nus computer science,12,Computer Science - NUS High School of Mathematics and ..
 nus computer science,13,Yale-NUS College and NUS School of Computing introduce ...,https://www.yale-nus.edu.sg/newsroom/yale-nus-college-and-nus-school-of-computing-introduce-concurrent-degree-programme/,www.yale-nus.edu.sg
 nus computer science,14,NUS Master of Computing — About the Course | by Mihir ...,https://medium.com/@mihirkhandekar/nus-master-of-computing-tips-for-prospective-students-f8df731f2768,medium.com
 nus computer science,15,These are the best computer science schools in the world ...,https://www.weforum.org/agenda/2016/07/these-are-the-best-computer-science-schools-in-the-world,www.weforum.org
-nus computer science,16,"NUS computing courses on par with law, medicine and ...",https://www.straitstimes.com/singapore/education/nus-computing-courses-on-par-with-law-medicine-and-business-studies,www.straitstimes.com
+nus computer science,16,NUS computing courses on par with law, medicine and ...,https://www.straitstimes.com/singapore/education/nus-computing-courses-on-par-with-law-medicine-and-business-studies,www.straitstimes.com
 nus computer science,17,NUS Computing (@nuscomputing) • Instagram photos and ...,https://www.instagram.com/nuscomputing/?hl=en,www.instagram.com
 nus computer science,18,My Experience in NUS Computer Science ? ??,http://think.seniorsays.sg/my-experience-in-nus-computer-science/,think.seniorsays.sg
 nus computer science,19,Rethinking Computer Science education at NUS - Tech in Asia,https://www.techinasia.com/talk/rethinking-cs-education-nus,www.techinasia.com
@@ -809,12 +809,12 @@ nus computer science,22,NUS Computer Science vs Information Systems - www ...,ht
 nus computer science,23,School of Computer Science and Engineering,http://scse.ntu.edu.sg/,scse.ntu.edu.sg
 nus computer science,24,About | NUS Hackers,https://www.nushackers.org/about/,www.nushackers.org
 nus computer science,25,NUS Computing (@NUSComputing) | Twitter,https://twitter.com/nuscomputing?lang=en,twitter.com
-nus computer science,26,Assistant Professor in Computer Science Yale-NUS College,"https://computeroxy.com/profileAnnouncement,a4914.html",computeroxy.com
+nus computer science,26,Assistant Professor in Computer Science Yale-NUS College,https://computeroxy.com/profileAnnouncement,a4914.html,computeroxy.com
 nus computer science,27,NUS Computing FOP 2020: Et Ultra,https://freshmen.nuscomputing.com/,freshmen.nuscomputing.com
 nus computer science,28,Swiss university SIT students to enrol in NUS School of ...,https://therojakplace.com/2019/09/swiss-university-sit-students-to-enrol-in-nus-school-of-computing-masters-programme-under-new-partnership/,therojakplace.com
 nus computer science,29,NUS-Computing-Career-Fair | Shopee Careers,https://careers.shopee.sg/event-detail/121/,careers.shopee.sg
 nus computer science,30,Harold Soh – harold@comp.nus.edu.sg,https://haroldsoh.com/,haroldsoh.com
-nus computer science,31,"What graduates from NTU, SMU, NUS, SIT, and SUTD are ...",https://www.humanresourcesonline.net/what-graduates-from-ntu-smu-nus-sit-and-sutd-are-earning,www.humanresourcesonline.net
+nus computer science,31,What graduates from NTU, SMU, NUS, SIT, and SUTD are ...,https://www.humanresourcesonline.net/what-graduates-from-ntu-smu-nus-sit-and-sutd-are-earning,www.humanresourcesonline.net
 nus computer science,32,From Harvard To NUS: 6 Coding Courses That You Can Sign ...,https://vulcanpost.com/705889/certified-coding-courses-singapore/,vulcanpost.com
 nus computer science,33,National University of Singapore Online Courses | Coursera,https://www.coursera.org/nus,www.coursera.org
 nus computer science,34,Professor Chua Tat Seng | NUS School of Computing,https://www.chuatatseng.com/,www.chuatatseng.com
@@ -827,13 +827,13 @@ nus computer science,40,16 things you didn't know about NUS Computing | Sarriest
 nus computer science,41,NUS Computing Forms Academic Blockchain Think Tank ...,https://www.businesswire.com/news/home/20180921005230/en/NUS-Computing-Forms-Academic-Blockchain-Tank,www.businesswire.com
 nus computer science,42,Xiang Wang's Homepage,https://xiangwang1223.github.io/,xiangwang1223.github.io
 nus computer science,43,NUS High School Students Take on College-Level Modules in ...,https://www.digipen.edu.sg/showcase/news/nus-high-school-students-take-on-college-level-modules-in-collaboration-with-digipen-singapore,www.digipen.edu.sg
-nus computer science,44,"High pay, good job prospects: Local computer science …",https://www.todayonline.com/singapore/high-pay-and-good-job-prospects-local-computer-science-undergrads-are-flocking-silicon,www.todayonline.com
+nus computer science,44,High pay, good job prospects: Local computer science …,https://www.todayonline.com/singapore/high-pay-and-good-job-prospects-local-computer-science-undergrads-are-flocking-silicon,www.todayonline.com
 nus computer science,45,NUS Supervisors & Projects - A*Star,https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa/nus-supervisors-projects,www.a-star.edu.sg
 nus computer science,46,NUS Computer Science versus NTU double degree in ...,https://seedly.sg/questions/nus-computer-science-versus-ntu-double-degree-in-business-and-computing-which-one-should-i-go-for,seedly.sg
 nus computer science,47,Yale-NUS College and NUS School of Computing Introduce ...,https://www.globalbrandsmagazine.com/yale-nus-college-and-nus-school-of-computing-introduce-concurrent-degree-programme/,www.globalbrandsmagazine.com
 nus computer science,48,Top Computer Scientists in National University of Singapore ...,http://www.guide2research.com/scientists/uni-214,www.guide2research.com
 nus computer science,49,Making his mark - National University of Singapore (NUS),https://www.scholarschoice.com.sg/experience/242/making_his_mark,www.scholarschoice.com.sg
-nus computer science,50,"IGP 2019-2020 of NUS, NTU, SMU for A-Level students",https://digitalsenior.sg/indicative-grade-profile-igp-3-local-universities-level-3h21h1/,digitalsenior.sg
+nus computer science,50,IGP 2019-2020 of NUS, NTU, SMU for A-Level students,https://digitalsenior.sg/indicative-grade-profile-igp-3-local-universities-level-3h21h1/,digitalsenior.sg
 nus computer science,51,National University of Singapore (NUS) - edX,https://www.edx.org/school/nus,www.edx.org
 nus computer science,52,How can a PhD (computer science) student in NUS get salary ...,https://osau.com/questions/3807/how-can-a-phd-computer-science-student-in-nus-get-salary-as-a-research-assistant-while-at-the-same-time-do-his-dissertation-in-the-same-subject,osau.com
 nus computer science,53,NUS School of Computing - Department of Computer Science,https://www.cs.odu.edu/~salam/wsdl/inforet/wikihtml/NUS_School_of_Computing_e6f0.html,www.cs.odu.edu
@@ -852,7 +852,7 @@ nus computer science,65,Ntu Computing,http://ejwb.abarone.it/ntu-computing.html,
 nus computer science,66,Top Computer Science Schools in the World - US News ...,https://www.usnews.com/education/best-global-universities/computer-science,www.usnews.com
 nus computer science,67,Nus Dentistry Application 2020 Reddit,http://oqkr.zenhabits.it/nus-dentistry-application-2020-reddit.html,oqkr.zenhabits.it
 nus computer science,68,Nus Dentistry Interview Reddit,http://ugtt.amoilricamo.it/nus-dentistry-interview-reddit.html,ugtt.amoilricamo.it
-nus computer science,69,"9 NUS Hacks From Your Seniors - Campus Shortcuts, Cash ...",https://thesmartlocal.com/read/nus-campus-hacks/,thesmartlocal.com
+nus computer science,69,9 NUS Hacks From Your Seniors - Campus Shortcuts, Cash ...,https://thesmartlocal.com/read/nus-campus-hacks/,thesmartlocal.com
 nus computer science,70,Nus mods review - hit-dypt.pw,http://lutubg.hit-dypt.pw/nus-mods-review.html,lutubg.hit-dypt.pw
 nus computer science,71,Top 10 universities in the world for electrical engineering,http://review.maginley.info/ryzen-3000/top-10-universities-in-the-world-for-electrical-engineering.html,review.maginley.info
 nus computer science,72,Mathematical Foundations Of Computer Science Conference,http://zdao.aquadivarigotti.it/mathematical-foundations-of-computer-science-conference.html,zdao.aquadivarigotti.it
@@ -868,7 +868,7 @@ nus computer science,81,Advances in Computer Science - ASIAN 2006. Secure Softwa
 nus computer science,82,Beyond Description: Singapore Space Historicity,https://www.google.com.sg/search?sxsrf=ALeKk00al6dxvRC1M8mH1nOCzjHqylZbvg:1603802269673&tbm=bks&q=inauthor:%22Mitsu+Okada%22&sa=X&ved=2ahUKEwitmMuE5dTsAhWjkOYKHc2nB6UQ9AgwYnoECH4QBg,www.google.com.sg
 nus computer science,83,Cryptographic Security Solutions for the Internet of Things,https://books.google.com.sg/books?id=yO6BAgAAQBAJ&pg=PA179&lpg=PA179&dq=nus+computer+science&source=bl&ots=DxWvF3jVJr&sig=ACfU3U1krmqQiANJl2avjNNRxUyZRZqCnw&hl=en&sa=X&ved=2ahUKEwitmMuE5dTsAhWjkOYKHc2nB6UQ6AEwY3oECHwQAg,books.google.com.sg
 nus computer science,84,Going to School in Oceania - Page 304 - Google Books Result,https://books.google.com.sg/books?id=UfWFDwAAQBAJ&pg=PA359&lpg=PA359&dq=nus+computer+science&source=bl&ots=aVbA0QdpF_&sig=ACfU3U3if3pwczkru2ajn4ryFhdplCZm7g&hl=en&sa=X&ved=2ahUKEwitmMuE5dTsAhWjkOYKHc2nB6UQ6AEwZHoECHQQAg,books.google.com.sg
-nus computer science,85,"Discovery Science: 16th International Conference, DS 2013, ...",https://books.google.com.sg/books?id=_D_ABfzxpQgC&pg=PA304&lpg=PA304&dq=nus+computer+science&source=bl&ots=eTYp2Bah0b&sig=ACfU3U2V-CPPoLMlIG2DiaXGUQYdJtPaIw&hl=en&sa=X&ved=2ahUKEwitmMuE5dTsAhWjkOYKHc2nB6UQ6AEwZXoECHkQAg,books.google.com.sg
+nus computer science,85,Discovery Science: 16th International Conference, DS 2013, ...,https://books.google.com.sg/books?id=_D_ABfzxpQgC&pg=PA304&lpg=PA304&dq=nus+computer+science&source=bl&ots=eTYp2Bah0b&sig=ACfU3U2V-CPPoLMlIG2DiaXGUQYdJtPaIw&hl=en&sa=X&ved=2ahUKEwitmMuE5dTsAhWjkOYKHc2nB6UQ6AEwZXoECHkQAg,books.google.com.sg
 nus computer science,86,Uoft Computer Science Admission Reddit,https://books.google.com.sg/books?id=4Mq5BQAAQBAJ&pg=PP5&lpg=PP5&dq=nus+computer+science&source=bl&ots=jci4UAZCxY&sig=ACfU3U0pPmJZdvp2bZu2G17lZlvlxUEaUA&hl=en&sa=X&ved=2ahUKEwitmMuE5dTsAhWjkOYKHc2nB6UQ6AEwZnoECHsQAg,books.google.com.sg
 nus computer science,87,Ntu Igp 2017,http://jpfi.agapemadredellaccoglienza.it/uoft-computer-science-admission-reddit.html,jpfi.agapemadredellaccoglienza.it
 nus computer science,88,Computer Science in Industrial Application: Proceedings of ...,http://vtaj.amicidicucciolo.it/ntu-igp-2017.html,vtaj.amicidicucciolo.it
@@ -877,7 +877,7 @@ nus computer science,90,NeeuroOS™ - The Future of Brain Computing | Neeuro,htt
 nus computer science,91,Topics for persuasive essay philippines - Clube Nautilus De Goa,https://www.neeuro.com/,www.neeuro.com
 nus computer science,92,Ntu Timetable 2019,http://clubenautilusdegoa.com/wp-includes/wp-xjg.php?viewtopic=for-topics-persuasive-essay-philippines,clubenautilusdegoa.com
 nus computer science,93,Kaplan university singapore - RE3,http://qeeu.alberodiminerva.it/ntu-timetable-2019.html,qeeu.alberodiminerva.it
-nus computer science,94,"SCS Releases Reference Guide on AI Ethics, Governance ...",http://re3.cl/magellan-prp/kaplan-university-singapore.html,re3.cl
+nus computer science,94,SCS Releases Reference Guide on AI Ethics, Governance ...,http://re3.cl/magellan-prp/kaplan-university-singapore.html,re3.cl
 nus computer science,95,Computational approach shows promise for optimising culture ...,https://www.cdotrends.com/story/15132/scs-releases-reference-guide-ai-ethics-governance,www.cdotrends.com
 nus computer science,96,Worst Secondary School In Singapore 2020,https://phys.org/news/2020-10-approach-optimising-culture-conditions-required.html,phys.org
 nus computer science,97,Nus mba,http://rgoq.dimmicomemangi.it/worst-secondary-school-in-singapore-2020.html,rgoq.dimmicomemangi.it
@@ -892,15 +892,15 @@ smu computer science,6,Bachelor of Science (Information Systems) - SMU Admission
 smu computer science,7,IT Solution Development Major | School of Information ...,https://sis.smu.edu.sg/bsc-computer-science/curriculum/majors/it-solution-development,sis.smu.edu.sg
 smu computer science,8,PhD in Computer Science & PhD in Information Systems ...,https://graduatestudies.smu.edu.sg/phd/computer-science-information-systems,graduatestudies.smu.edu.sg
 smu computer science,9,[Uni] SMU Computer Science AMA : SGExams - Reddit,https://www.reddit.com/r/SGExams/comments/ggumg1/uni_smu_computer_science_ama/,www.reddit.com
-smu computer science,10,"Program: Computer Science, B.A. - Southern ... - SMU Catalog",https://catalog.smu.edu/preview_program.php?catoid=14&poid=2650,catalog.smu.edu
+smu computer science,10,Program: Computer Science, B.A. - Southern ... - SMU Catalog,https://catalog.smu.edu/preview_program.php?catoid=14&poid=2650,catalog.smu.edu
 smu computer science,11,Computing Science - Saint Mary's University,https://smu.ca/academics/computing-science.html,smu.ca
 smu computer science,12,SMU Computer Science (BSc CS) 2019 Intake - www ...,https://forums.hardwarezone.com.sg/smu-344/smu-computer-science-bsc-cs-2019-intake-6050493.html,forums.hardwarezone.com.sg
 smu computer science,13,Computer Science at Southern Methodist University - College ...,https://www.collegefactual.com/colleges/southern-methodist-university/academic-life/academic-majors/computer-information-sciences/computer-science/index.html,www.collegefactual.com
 smu computer science,14,SMU School of Information Systems - Home | Facebook,https://www.facebook.com/SgSMUSIS/,www.facebook.com
-smu computer science,15,"Should I get a computer science degree at NUS, NTU, SUTD ...",https://www.quora.com/Should-I-get-a-computer-science-degree-at-NUS-NTU-SUTD-or-SMU,www.quora.com
+smu computer science,15,Should I get a computer science degree at NUS, NTU, SUTD ...,https://www.quora.com/Should-I-get-a-computer-science-degree-at-NUS-NTU-SUTD-or-SMU,www.quora.com
 smu computer science,16,Singapore Management University (SMU) | Ministry of Education,https://beta.moe.gov.sg/post-secondary/overview/autonomous-universities/smu/,beta.moe.gov.sg
 smu computer science,17,Southern Methodist University - Best Science Schools - US ...,https://www.usnews.com/best-graduate-schools/top-science-schools/southern-methodist-university-228246#computer_science,www.usnews.com
-smu computer science,18,"SMU, NTU offer more options, places for computer studies ...",https://www.straitstimes.com/singapore/education/smu-ntu-offer-more-options-places-for-computer-studies,www.straitstimes.com
+smu computer science,18,SMU, NTU offer more options, places for computer studies ...,https://www.straitstimes.com/singapore/education/smu-ntu-offer-more-options-places-for-computer-studies,www.straitstimes.com
 smu computer science,19,Department of Computer Science - Sefako Makgatho Health ...,https://www.smu.ac.za/schools/school-science-technology/departments/department-computer-science/,www.smu.ac.za
 smu computer science,20,PhD in Computer Science & PhD in Information Systems - SMU,https://postgrad.com.sg/phd-computer-science-phd-information-systems-smu-phd/,postgrad.com.sg
 smu computer science,21,Valerie Yew - Freelance Photographer - SweetEscape | LinkedIn,https://sg.linkedin.com/in/valerieyew,sg.linkedin.com
@@ -910,15 +910,15 @@ smu computer science,24,computer science club – SMU Daily Campus,https://www.s
 smu computer science,25,Subject Rankings 2020 - Singapore Management University ...,https://www.topuniversities.com/node/4385/ranking-details/university-subject-rankings/2013,www.topuniversities.com
 smu computer science,26,SMU Undergraduate Admissions,https://standrewsjc.moe.edu.sg/qql/slot/u674/Parents/Resources/LUF%20Slides%2026%20Jan%202019/[SMU]%20UG%2010%20minutes%20Admissions%20presentation.pdf,standrewsjc.moe.edu.sg
 smu computer science,27,How SMU computer science professors are using their ...,https://www.dallasnews.com/opinion/commentary/2020/04/26/how-smu-computer-science-professors-are-using-their-resources-to-help-find-a-coronavirus-vaccine/,www.dallasnews.com
-smu computer science,28,"13 graduates from NTU, NUS & SMU share their top regrets",https://digitalsenior.sg/what-i-wished-i-had-done-while-in-university/,digitalsenior.sg
-smu computer science,29,"Top Singapore Computer Science Courses, Universities and ...",https://www.hotcoursesabroad.com/india/training-degrees/singapore/computer-science-courses/loc/168/cgory/e1-3/sin/ct/programs.html,www.hotcoursesabroad.com
-smu computer science,30,"What graduates from NTU, SMU, NUS, SIT, and SUTD are ...",https://www.humanresourcesonline.net/what-graduates-from-ntu-smu-nus-sit-and-sutd-are-earning,www.humanresourcesonline.net
+smu computer science,28,13 graduates from NTU, NUS & SMU share their top regrets,https://digitalsenior.sg/what-i-wished-i-had-done-while-in-university/,digitalsenior.sg
+smu computer science,29,Top Singapore Computer Science Courses, Universities and ...,https://www.hotcoursesabroad.com/india/training-degrees/singapore/computer-science-courses/loc/168/cgory/e1-3/sin/ct/programs.html,www.hotcoursesabroad.com
+smu computer science,30,What graduates from NTU, SMU, NUS, SIT, and SUTD are ...,https://www.humanresourcesonline.net/what-graduates-from-ntu-smu-nus-sit-and-sutd-are-earning,www.humanresourcesonline.net
 smu computer science,31,Feida ZHU,http://www.mysmu.edu/faculty/fdzhu/,www.mysmu.edu
 smu computer science,32,The Ultimate Guide To: Starting Salary For Fresh University ...,https://blog.seedly.sg/graduate-starting-salary-nus-ntu-smu-sutd-sit/,blog.seedly.sg
-smu computer science,33,"NUS Is Ranked 11th, NTU Is 13th and SMU Is... 477th in the ...",https://thekopi.co/2020/06/16/nus-is-ranked-11th-ntu-is-13th-and-smu-is-477th-in-the-world-heres-why/,thekopi.co
+smu computer science,33,NUS Is Ranked 11th, NTU Is 13th and SMU Is... 477th in the ...,https://thekopi.co/2020/06/16/nus-is-ranked-11th-ntu-is-13th-and-smu-is-477th-in-the-world-heres-why/,thekopi.co
 smu computer science,34,B.Tech Computer Science Engineering (CSE),https://smu.edu.in/smit/programs/program-list/btech-in-computer-science.html,smu.edu.in
 smu computer science,35,My SMU School of Information Systems Interview 2017 ...,https://www.melvinoyx.com/blog/my-smu-school-of-information-systems-interview-2017,www.melvinoyx.com
-smu computer science,36,"SMU, NTU offer more options, places for computer studies",http://www3.ntu.edu.sg/CorpComms2/Documents/2019/02_Feb/ST_190226_SMU%2C%20NTU%20offer%20more%20options%2C%20places%20for%20computer%20studies.pdf,www3.ntu.edu.sg
+smu computer science,36,SMU, NTU offer more options, places for computer studies,http://www3.ntu.edu.sg/CorpComms2/Documents/2019/02_Feb/ST_190226_SMU%2C%20NTU%20offer%20more%20options%2C%20places%20for%20computer%20studies.pdf,www3.ntu.edu.sg
 smu computer science,37,Southern Methodist University Online Degree Program ...,https://2u.com/partners/smu/,2u.com
 smu computer science,38,Year 1 SMU Computer Science Discrete Maths Module - #1 ...,https://yestuition.sg/job/yes-tuition-agency-3-year-1-smu-computer-science-discrete-maths-module/,yestuition.sg
 smu computer science,39,SMU-Duke-NUS Medicine Pathway | Duke-NUS Medical School,https://www.duke-nus.edu.sg/admissions/pre-md-pathways/smu-duke-nus-medicine-pathway,www.duke-nus.edu.sg
@@ -926,9 +926,9 @@ smu computer science,40,Start A Tech Career with these IT Courses in Singapore �
 smu computer science,41,SMU receives NSF grant to research teaching computer ...,https://www.eurekalert.org/pub_releases/2019-10/smu-srn101619.php,www.eurekalert.org
 smu computer science,42,From accountant to data expert: how my SMU degree put me ...,https://news.efinancialcareers.com/sg-en/3004345/from-accountant-to-data-expert-how-my-smu-degree-put-me-on-a-new-career-path-sc,news.efinancialcareers.com
 smu computer science,43,Graduate Employment Survey 2019 (Published 2020) | Salary ...,https://www.salary.sg/2020/graduate-employment-survey-2019-published-2020/,www.salary.sg
-smu computer science,44,"NUS, NTU, SMU & Singapore Universities - Tuition Fees 2020",https://blog.moneysmart.sg/education/singapore-university-education-cost/,blog.moneysmart.sg
+smu computer science,44,NUS, NTU, SMU & Singapore Universities - Tuition Fees 2020,https://blog.moneysmart.sg/education/singapore-university-education-cost/,blog.moneysmart.sg
 smu computer science,45,B.Sc. (IT) Distance Admission | BSC IT Computer Science ...,https://smude.edu.in/smude/programs/bsc-it.html,smude.edu.in
-smu computer science,46,"Graduate Employment Survey - NTU, NUS, SIT, SMU, SUSS ...",https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd,data.gov.sg
+smu computer science,46,Graduate Employment Survey - NTU, NUS, SIT, SMU, SUSS ...,https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd,data.gov.sg
 smu computer science,47,Computer Science/Coding Education Graphic from SMU | The ...,http://advocate.csteachers.org/2016/01/15/computer-sciencecoding-education-graphic-from-smu/,advocate.csteachers.org
 smu computer science,48,New Fast Track SMU-Carnegie Mellon Programme Offered ...,https://www.imda.gov.sg/news-and-events/Media-Room/archived/ida/Media-Releases/2006/20050705100757,www.imda.gov.sg
 smu computer science,49,Skills Future Coding & Programming Courses For Adults In ...,https://www.sgcodecampus.com/partners/smu/,www.sgcodecampus.com
@@ -968,17 +968,17 @@ smu computer science,82,No. 9 Cincinnati crushes No. 16 SMU behind Ridder's 4 TD
 smu computer science,83,PHP Programmer Pekerjaan - Jadi Technology - 3377314 ...,https://www.jobstreet.co.id/id/job/php-programmer-3377314?fr=J&searchRequestToken=7d599408-4ce8-4940-81fe-b682cfab2461§ionRank=1,www.jobstreet.co.id
 smu computer science,84,Bank database management system er diagram,http://dk.maniedibellezza.it/bank-database-management-system-er-diagram.html,dk.maniedibellezza.it
 smu computer science,85,Smu transfer essay,http://matis.tech/wp-includes/post-uxc.php?viewtopic=essay-transfer-smu,matis.tech
-smu computer science,86,"Final Year Student Project Source Code, Report, Synopsis ...",https://www.readymadeproject.com/Resource,www.readymadeproject.com
+smu computer science,86,Final Year Student Project Source Code, Report, Synopsis ...,https://www.readymadeproject.com/Resource,www.readymadeproject.com
 smu computer science,87,Narrative essay scary moment,http://theweefactory.com/wp-includes/rss-qay.php?page=moment-narrative-scary-essay,theweefactory.com
 smu computer science,88,University Of Twente Scholarships in Netherlands for ...,https://scholarshipstree.com/university-of-twente-scholarships-in-netherlands-study-in-netherlands,scholarshipstree.com
 smu computer science,89,Ntu Stars - Urban Italy,http://cuyj.urbanitaly.it/ntu-stars.html,cuyj.urbanitaly.it
 smu computer science,90,Ntu Stars,http://oqwe.takotech.it/ntu-stars.html,oqwe.takotech.it
-smu computer science,91,"The age of Clovis—13,050 to 12,750 cal yr B.P. | Science ...",https://advances.sciencemag.org/content/6/43/eaaz0455,advances.sciencemag.org
+smu computer science,91,The age of Clovis—13,050 to 12,750 cal yr B.P. | Science ...,https://advances.sciencemag.org/content/6/43/eaaz0455,advances.sciencemag.org
 smu computer science,92,Nus fass appeal,http://ak.fruttaepassione.it/nus-fass-appeal.html,ak.fruttaepassione.it
 smu computer science,93,Bokeh Blue,http://lhiv.icreatours.it/bokeh-blue.html,lhiv.icreatours.it
 smu computer science,94,Spreading the Word About IEEE Among Young Professionals,https://spectrum.ieee.org/the-institute/ieee-member-news/spreading-the-word-about-ieee-among-young-professionals,spectrum.ieee.org
 smu computer science,95,Data science intensive course - Petite Flower Guest House,http://petite-flower-guesthouse.com/rohs-pulse/data-science-intensive-course.html,petite-flower-guesthouse.com
 smu computer science,96,Tableau for Students,https://www.tableau.com/academic/students,www.tableau.com
-smu computer science,97,"DataCamp: Learn R, Python & Data Science Online",https://www.datacamp.com/,www.datacamp.com
+smu computer science,97,DataCamp: Learn R, Python & Data Science Online,https://www.datacamp.com/,www.datacamp.com
 smu computer science,98,International management dissertation,http://performancevisionandlearning.com/wp-includes/wp-uqb.php?paper=dissertation-management-international,performancevisionandlearning.com
 smu computer science,99,Corporate social responsibility ikea case study,http://thenurturedchild.com/wp-includes/comment-ryw.php?viewtopic=corporate-social-responsibility-study-ikea-case,thenurturedchild.com
