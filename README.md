@@ -5,7 +5,7 @@
     Example:
     ```shell
     cd Trie-with-built-in-hashmap
-```
+    ```
 2. Run the compile.bat to compile the classes
     ```shell
     compile.bat
