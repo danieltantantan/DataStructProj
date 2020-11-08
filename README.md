@@ -1,6 +1,6 @@
 # CS201Proj
 ## How to run
-1. cd into the root folder of the implementation you want to test
+1. cd into the root folder of the implementation you want to test. Each folder consist of a compile.bat and run.bat
 
     Example:
     ```shell
